@@ -1,0 +1,904 @@
+type,title,director,country,year,duration,genre,Language
+Movie,Blackfish,Gabriela Cowperthwaite,United States,2013,83,"Documentary,News","English,Spanish"
+Movie,Jiro Dreams of Sushi,David Gelb,United States,2011,81,Documentary,Japanese
+Movie,The Patriot,Roland Emmerich,"United States,Germany",2000,165,"Action,Drama,History,War","English,French"
+Movie,The Square,Ruben Östlund,"Sweden,Germany,France,Denmark,United States",2013,151,"Comedy,Drama","Swedish,English,Danish"
+Movie,Hitch,Andy Tennant,United States,2005,118,"Comedy,Romance",English
+Movie,Hey Arnold! The Jungle Movie,"Raymie Muzquiz,Stu Livingston","United States,South Korea,Japan",2017,81,"Animation,Adventure,Comedy,Family,Fantasy","English,Korean"
+Movie,The Interview,"Evan Goldberg,Seth Rogen",United States,2014,112,"Action,Adventure,Comedy","English,Korean"
+Movie,Blame!,Hiroyuki Seshita,Japan,2017,106,"Animation,Action,Drama,Sci-Fi,Thriller",Japanese
+Movie,Evolution,Ivan Reitman,United States,2001,101,"Comedy,Sci-Fi",English
+Movie,The Oath,,United States,2016,60,"Crime,Drama",English
+Movie,Little Monsters,Abe Forsythe,"United Kingdom,Australia,United States",1989,93,"Comedy,Horror",English
+Movie,Lost in London,Woody Harrelson,"United States,United Kingdom",2017,103,"Comedy,Drama",English
+Movie,Gemini,David Cronenberg,Canada,2018,116,"Drama,Horror,Thriller",English
+Movie,No Game No Life: Zero,Atsuko Ishizuka,Japan,2017,110,"Animation,Adventure,Comedy,Drama,Fantasy,Romance",Japanese
+Movie,Major League II,David S. Ward,United States,1994,105,"Comedy,Sport",English
+Movie,A Second Chance,Clay Glen,Australia,2015,90,"Drama,Family,Sport",English
+Movie,The Cat in the Hat,Bo Welch,United States,2003,82,"Adventure,Comedy,Family,Fantasy",English
+Movie,Big Time Movie,Savage Steve Holland,"United States,Canada",2012,68,Comedy,English
+Movie,Zapped,Peter DeLuise,"Canada,United States",2014,102,"Comedy,Family,Fantasy",English
+Movie,Mother,Darren Aronofsky,United States,2016,121,"Drama,Horror,Mystery",English
+Movie,Escape from Mr. Lemoncello's Library,Scott McAboy,United States,2017,69,Family,English
+Movie,A Fairly Odd Summer,Savage Steve Holland,United States,2014,68,"Animation,Comedy,Family,Fantasy",English
+Movie,LeapFrog: Phonics Farm,Ron Myrick,United States,2011,38,"Animation,Short",English
+Movie,LeapFrog: Numberland,Ron Myrick,United States,2012,36,"Animation,Short",English
+Movie,Oddbods: Party Monsters,,,2018,,Animation,
+Movie,The Dark Knight,Christopher Nolan,"United States,United Kingdom",2008,152,"Action,Crime,Drama,Thriller","English,Mandarin"
+Movie,GoodFellas,Martin Scorsese,United States,1990,146,"Biography,Crime,Drama","English,Italian"
+Movie,Parasite,Bong Joon Ho,South Korea,2019,132,"Comedy,Drama,Thriller","Korean,English"
+Movie,Good Will Hunting,Gus Van Sant,United States,1997,126,"Drama,Romance",English
+Movie,The Green Mile,Frank Darabont,United States,1999,189,"Crime,Drama,Fantasy,Mystery","English,French"
+Movie,Batman Begins,Christopher Nolan,"United States,United Kingdom",2005,140,"Action,Adventure","English,Mandarin"
+Movie,Grave of the Fireflies,Isao Takahata,Japan,1988,89,"Animation,Drama,War",Japanese
+Movie,Kill Bill: Vol. 1,Quentin Tarantino,"United States,Japan",2003,111,"Action,Crime,Thriller","English,Japanese,French"
+Movie,Zombieland,Ruben Fleischer,United States,2009,88,"Adventure,Comedy,Fantasy,Sci-Fi",English
+Movie,A Quiet Place,John Krasinski,United States,2018,90,"Drama,Horror,Sci-Fi","English,American Sign Language"
+Movie,Kill Bill: Vol. 2,Quentin Tarantino,United States,2004,137,"Action,Crime,Thriller","English,Cantonese,Mandarin,Spanish"
+Movie,Let the Right One In,Tomas Alfredson,Sweden,2008,114,"Drama,Horror,Romance","Swedish,Spanish"
+Movie,True Grit,"Ethan Coen,Joel Coen",United States,2010,110,"Drama,Western",English
+Movie,Akira,Katsuhiro Ôtomo,Japan,1988,124,"Animation,Drama,Sci-Fi,Thriller",Japanese
+Movie,50/50,Jonathan Levine,United States,2011,100,"Comedy,Drama,Romance",English
+Movie,Hunt for the Wilderpeople,Taika Waititi,New Zealand,2016,101,"Adventure,Comedy,Drama",English
+Movie,The Graduate,Mike Nichols,United States,1967,106,"Comedy,Drama,Romance",English
+Movie,Portrait of a Lady on Fire,Céline Sciamma,France,2019,122,"Drama,Romance","French,Italian"
+Movie,Misery,Rob Reiner,United States,1990,107,"Drama,Thriller",English
+Movie,The Conjuring,James Wan,United States,2013,112,"Horror,Mystery,Thriller","English,Latin"
+Movie,Free Solo,"Jimmy Chin,Elizabeth Chai Vasarhelyi",United States,2018,100,"Documentary,Adventure,Sport",English
+Movie,Captain Fantastic,Matt Ross,United States,2016,118,"Comedy,Drama","English,Esperanto"
+Movie,"I, Tonya",Craig Gillespie,"United Kingdom,United States,Qatar",2017,119,"Biography,Comedy,Drama,Sport",English
+Movie,Blazing Saddles,Mel Brooks,United States,1974,93,"Comedy,Western","English,Yiddish,German"
+Movie,Shoplifters,Hirokazu Koreeda,Japan,2018,121,"Crime,Drama",Japanese
+Movie,Up in the Air,Jason Reitman,United States,2009,109,"Comedy,Drama,Romance",English
+Movie,The Cabin in the Woods,Drew Goddard,United States,2012,95,Horror,"English,Japanese"
+Movie,How to Train Your Dragon: The Hidden World,Dean DeBlois,"United States,Japan",2019,104,"Animation,Action,Adventure,Family,Fantasy",English
+Movie,Escape from Alcatraz,Don Siegel,United States,1979,112,"Biography,Crime,Drama,Thriller",English
+Movie,Star Trek II: The Wrath of Khan,Nicholas Meyer,United States,1982,113,"Action,Adventure,Sci-Fi",English
+Movie,Apollo 11,Todd Douglas Miller,United States,2019,93,"Documentary,History",English
+Movie,Booksmart,Olivia Wilde,United States,2019,102,Comedy,"English,Mandarin,Spanish"
+Movie,Super 8,J.J. Abrams,United States,2011,112,"Mystery,Sci-Fi,Thriller",English
+Movie,Mission: Impossible - Fallout,Christopher McQuarrie,"United States,China,France,Norway,United Kingdom",2018,147,"Action,Adventure,Thriller","English,French"
+Movie,Coherence,James Ward Byrkit,"United States,United Kingdom",2013,89,"Drama,Horror,Mystery,Sci-Fi,Thriller",English
+Movie,Annihilation,Alex Garland,"United Kingdom,United States",2018,115,"Adventure,Drama,Horror,Mystery,Sci-Fi,Thriller",English
+Movie,Heathers,Michael Lehmann,United States,1989,103,"Comedy,Crime",English
+Movie,The Descent,Neil Marshall,United Kingdom,2005,99,"Adventure,Horror,Thriller",English
+Movie,The Guilty,Gustav Möller,Denmark,2018,85,"Crime,Drama,Thriller",Danish
+Movie,Fighting with My Family,Stephen Merchant,"United Kingdom,United States,Mexico",2019,108,"Biography,Comedy,Drama,Sport",English
+Movie,Bumblebee,Travis Knight,"China,United States",2018,114,"Action,Adventure,Sci-Fi",English
+Movie,Rango,Gore Verbinski,United States,2011,107,"Animation,Adventure,Comedy,Family,Western",English
+Movie,Instant Family,Sean Anders,United States,2018,118,"Comedy,Drama","English,Spanish"
+Movie,13 Assassins,Takashi Miike,"Japan,United Kingdom",2010,141,"Action,Adventure,Drama",Japanese
+Movie,The Host,Bong Joon Ho,South Korea,2006,120,"Action,Drama,Horror,Sci-Fi","Korean,English"
+Movie,Volver,Pedro Almodóvar,Spain,2006,121,"Comedy,Drama",Spanish
+Movie,We Need to Talk About Kevin,Lynne Ramsay,"United Kingdom,United States",2011,112,"Drama,Mystery,Thriller",English
+Movie,Let Me In,Matt Reeves,"United Kingdom,United States",2010,116,"Drama,Fantasy,Horror,Mystery,Thriller",English
+Movie,Three Identical Strangers,Tim Wardle,United Kingdom,2018,96,"Documentary,Biography,Drama,History,Mystery",English
+Movie,A Simple Favor,Paul Feig,"Canada,United States",2018,117,"Comedy,Crime,Drama,Mystery,Thriller",English
+Movie,Creed II,Steven Caple Jr.,United States,2018,130,"Drama,Sport","English,Russian,Sign Languages"
+Movie,Loving Vincent,"Dorota Kobiela,Hugh Welchman","Poland,United Kingdom,United States,Switzerland,Netherlands",2017,94,"Animation,Biography,Crime,Drama,Family,Mystery",English
+Movie,Megamind,Tom McGrath,United States,2010,95,"Animation,Action,Comedy,Family,Sci-Fi",English
+Movie,Honeyland,"Tamara Kotevska,Ljubomir Stefanov",Republic of North Macedonia,2019,89,"Documentary,Drama","Turkish,Macedonian,Serbo-Croatian,Bosnian"
+Movie,The Full Monty,Peter Cattaneo,"United Kingdom,United States",1997,91,"Comedy,Drama",English
+Movie,Abominable,"Jill Culton,Todd Wilderman","China,United States,Japan",2019,97,"Animation,Adventure,Comedy,Family,Fantasy","English,Mandarin"
+Movie,The Chaser,Hong-jin Na,South Korea,2008,125,"Action,Crime,Thriller",Korean
+Movie,Hotel Mumbai,Anthony Maras,"Australia,United States,United Kingdom,India,Singapore",2018,123,"Action,Drama,History,Thriller",English
+Movie,Nobody Knows,Hirokazu Koreeda,Japan,2004,141,Drama,Japanese
+Movie,Ninja Scroll,Yoshiaki Kawajiri,Japan,1993,94,"Animation,Action,Adventure,Fantasy,Thriller",Japanese
+Movie,Chicken Run,"Peter Lord,Nick Park","United Kingdom,United States,France",2000,84,"Animation,Adventure,Comedy,Drama,Family",English
+Movie,Swingers,Doug Liman,United States,1996,96,"Comedy,Drama",English
+Movie,"Food, Inc.",Robert Kenner,United States,2008,94,"Documentary,News",English
+Movie,Embrace of the Serpent,Ciro Guerra,"Colombia,Venezuela,Argentina",2015,125,"Adventure,Drama","Spanish,Portuguese,Aboriginal,German,Catalan,Latin,English"
+Movie,Melancholia,Lars von Trier,"Denmark,Sweden,France,Germany",2011,135,"Drama,Sci-Fi",English
+Movie,Minding the Gap,Bing Liu,United States,2019,93,Documentary,English
+Movie,The Second Mother,Anna Muylaert,Brazil,2015,112,"Comedy,Drama",Portuguese
+Movie,Notes on a Scandal,Richard Eyre,United Kingdom,2006,92,"Crime,Drama,Romance,Thriller","English,French"
+Movie,Star Trek VI: The Undiscovered Country,Nicholas Meyer,United States,1991,110,"Action,Adventure,Sci-Fi,Thriller","English,Klingon"
+Movie,Love & Mercy,Bill Pohlad,United States,2015,121,"Biography,Drama,Music",English
+Movie,A Taxi Driver,Hun Jang,South Korea,2017,137,"Action,Drama,History","Korean,German,English,Japanese"
+Movie,The Prince of Egypt,"Brenda Chapman,Steve Hickner,Simon Wells",United States,1998,99,"Animation,Adventure,Drama,Family,Fantasy,Musical","English,Hebrew"
+Movie,Tickled,"David Farrier,Dylan Reeve",New Zealand,2016,92,"Documentary,Mystery",English
+Movie,Sorry to Bother You,Boots Riley,United States,2018,112,"Comedy,Fantasy,Sci-Fi",English
+Movie,The Way Back,Gavin O'Connor,United States,2010,108,"Drama,Sport",English
+Movie,Detroit,Kathryn Bigelow,United States,2017,143,"Crime,Drama,History,Thriller",English
+Movie,Risky Business,Paul Brickman,United States,1983,99,"Comedy,Crime,Drama,Romance","English,German"
+Movie,The Biggest Little Farm,John Chester,United States,2019,91,Documentary,English
+Movie,Lucky,John Carroll Lynch,United States,2017,88,"Comedy,Drama,Western","English,Spanish"
+Movie,Border,Ali Abbasi,"Sweden,Denmark",2018,110,"Crime,Drama,Fantasy,Romance,Thriller","Swedish,English"
+Movie,Natural Born Killers,Oliver Stone,United States,1994,118,"Action,Crime,Drama","English,Navajo,Japanese"
+Movie,If Beale Street Could Talk,Barry Jenkins,United States,2018,119,"Drama,Romance","English,Spanish"
+Movie,Horton Hears a Who!,"Jimmy Hayward,Steve Martino",United States,2008,86,"Animation,Adventure,Comedy,Family,Fantasy",English
+Movie,Romancing the Stone,Robert Zemeckis,"Mexico,United States",1984,106,"Action,Adventure,Comedy,Romance","English,Spanish,French"
+Movie,The Beatles: Eight Days a Week - The Touring Years,Ron Howard,"United States,United Kingdom",2016,106,"Documentary,Music",English
+Movie,Phone Booth,Joel Schumacher,United States,2002,81,"Crime,Thriller","English,Swahili"
+Movie,Gods and Monsters,Bill Condon,"United States,United Kingdom",1998,105,"Biography,Drama","English,Hungarian"
+Movie,Force Majeure,"Nat Faxon,Jim Rash",United States,2014,86,"Comedy,Drama",English
+Movie,Turtles Can Fly,Bahman Ghobadi,"Iran,France,Iraq",2005,98,"Drama,War","Kurdish,Arabic,English"
+Movie,Thelma,Joachim Trier,"Norway,France,Denmark,Sweden",2017,116,"Drama,Fantasy,Horror,Mystery,Romance,Thriller","Norwegian,Swedish"
+Movie,The Sisters Brothers,Jacques Audiard,"France,Spain,Romania,Belgium,United States",2018,122,"Crime,Drama,Western",English
+Movie,Tangerine,Sean Baker,United States,2015,88,"Comedy,Crime,Drama","English,Armenian"
+Movie,Monos,Alejandro Landes,"Colombia,Argentina,Netherlands,Germany,Sweden,Uruguay,United States,Switzerland,Denmark,France",2019,102,"Adventure,Drama,Thriller","Spanish,English"
+Movie,The Nightingale,Jennifer Kent,Australia,2019,136,"Adventure,Drama,Thriller","English,Irish,Aboriginal"
+Movie,BPM (Beats per Minute),Robin Campillo,France,2017,143,Drama,French
+Movie,Bend It Like Beckham,Gurinder Chadha,"United Kingdom,Germany,United States",2002,112,"Comedy,Drama,Romance,Sport","English,Punjabi,Hindi,German"
+Movie,Hud,Martin Ritt,United States,1963,112,"Drama,Western",English
+Movie,Vice,,United States,2018,28,Comedy,English
+Movie,The Book of Eli,"Albert Hughes,Allen Hughes",United States,2010,118,"Action,Adventure,Drama,Thriller",English
+Movie,The 12th Man,Harald Zwart,Norway,2017,135,"Drama,History,Thriller,War","Norwegian,German,English,Saami"
+Movie,The Messenger,Oren Moverman,United States,2009,113,"Drama,Romance,War","English,Spanish"
+Movie,Cartel Land,Matthew Heineman,United States,2015,100,"Documentary,News","English,Spanish"
+Movie,Professor Marston and the Wonder Women,Angela Robinson,United States,2017,108,"Biography,Drama",English
+Movie,A Brilliant Young Mind,Morgan Matthews,United Kingdom,2014,111,"Drama,Romance","English,Mandarin"
+Movie,Antz,"Eric Darnell,Tim Johnson",United States,1998,83,"Animation,Adventure,Comedy,Family",English
+Movie,The Next Three Days,Paul Haggis,"United States,France",2010,133,"Action,Crime,Drama,Romance,Thriller",English
+Movie,Megan Leavey,Gabriela Cowperthwaite,United States,2017,116,"Biography,Drama,War","English,Arabic"
+Movie,Jesus Camp,"Heidi Ewing,Rachel Grady",United States,2006,84,Documentary,English
+Movie,RBG,"Julie Cohen,Betsy West",United States,2018,98,"Documentary,Biography","English,Italian,German,French"
+Movie,Wild Rose,Tom Harper,"United Kingdom,United States,Canada",2019,101,"Comedy,Drama,Music",English
+Movie,Kinsey,Bill Condon,"United States,Germany",2004,118,"Biography,Drama,Romance",English
+Movie,Demolition Man,Marco Brambilla,United States,1993,115,"Action,Sci-Fi,Thriller",English
+Movie,Spirit: Stallion of the Cimarron,"Kelly Asbury,Lorna Cook",United States,2002,83,"Animation,Adventure,Drama,Family,Western",English
+Movie,"The Good, The Bad, The Weird",Jee-woon Kim,South Korea,2008,139,"Action,Adventure,Comedy,Western","Korean,Mandarin,Japanese"
+Movie,"Waiting for ""Superman""",Davis Guggenheim,United States,2010,111,Documentary,English
+Movie,The Skeleton Twins,Craig Johnson,United States,2014,93,"Comedy,Drama,Romance",English
+Movie,I Can Only Imagine,"Andrew Erwin,Jon Erwin",United States,2018,110,"Biography,Drama,Family,Music",English
+Movie,Woman at War,Benedikt Erlingsson,"Iceland,France,Ukraine",2018,101,"Adventure,Comedy,Drama","Icelandic,English,Ukrainian,Chinese,Spanish"
+Movie,Johnny Guitar,Nicholas Ray,United States,1954,110,"Drama,Western",English
+Movie,Jane,Julian Jarrold,"United Kingdom,Ireland",2017,120,"Biography,Drama,Romance",English
+Movie,Monster House,Gil Kenan,United States,2006,91,"Animation,Adventure,Comedy,Family,Fantasy,Mystery",English
+Movie,Hail Satan?,Penny Lane,United States,2019,95,Documentary,English
+Movie,Ingrid Goes West,Matt Spicer,United States,2017,98,"Comedy,Drama",English
+Movie,Dogman,Matteo Garrone,"Italy,France",2018,103,"Crime,Drama,Thriller",Italian
+Movie,Anthropoid,Sean Ellis,"Czech Republic,United Kingdom,United States,France",2016,120,"Action,Biography,Drama,History,Romance,Thriller,War","English,Czech,German"
+Movie,Missing Link,Chris Butler,"Canada,United States",2019,93,"Animation,Adventure,Comedy,Family,Fantasy","English,Spanish,Tibetan"
+Movie,Star Trek III: The Search for Spock,Leonard Nimoy,United States,1984,105,"Action,Adventure,Sci-Fi","English,Klingon,Russian,French"
+Movie,Cashback,Sean Ellis,United Kingdom,2006,102,"Comedy,Drama,Romance","English,Spanish"
+Movie,"Juliet, Naked",Jesse Peretz,"United States,United Kingdom",2018,97,"Comedy,Drama,Music,Romance",English
+Movie,The Absent One,Mikkel Nørgaard,"Denmark,Germany,Sweden",2014,119,"Crime,Mystery,Thriller","Danish,English,French"
+Movie,Big Time Adolescence,Jason Orley,United States,2020,91,Comedy,English
+Movie,Get Smart,Peter Segal,United States,2008,110,"Action,Adventure,Comedy","English,Russian,Punjabi,Arabic"
+Movie,"Life, Animated",Roger Ross Williams,United States,2016,92,"Documentary,Comedy,Drama,Family,Fantasy,Romance",English
+Movie,Sands of Iwo Jima,Allan Dwan,United States,1949,100,"Action,Drama,Romance,War",English
+Movie,Killer Joe,William Friedkin,United States,2011,102,"Crime,Drama,Thriller",English
+Movie,Sword Art Online: The Movie - Ordinal Scale,Tomohiko Itô,Japan,2017,119,"Animation,Action,Adventure,Fantasy,Sci-Fi",Japanese
+Movie,The Wave,Gille Klabin,United States,2015,90,"Sci-Fi,Thriller",English
+Movie,Colossal,Nacho Vigalondo,"Canada,United States,Spain,South Korea",2016,109,"Comedy,Drama,Fantasy,Sci-Fi,Thriller","English,Korean"
+Movie,Luce,Julius Onah,United States,2019,109,"Drama,Mystery",English
+Movie,Oculus,Mike Flanagan,United States,2014,104,"Horror,Mystery",English
+Movie,Standing in the Shadows of Motown,Paul Justman,United States,2002,108,"Documentary,Music",English
+Movie,Borg vs McEnroe,Janus Metz,"Sweden,Denmark,Finland",2017,107,"Biography,Drama,Sport","English,Swedish,French,Spanish,German"
+Movie,Denial,Mick Jackson,"United Kingdom,United States",2016,109,"Biography,Drama","English,German,Hebrew"
+Movie,Best of Enemies,"Robert Gordon,Morgan Neville",United States,2015,87,"Documentary,Biography,History",English
+Movie,Prospect,"Christopher Caldwell,Zeek Earl",Canada,2018,100,"Drama,Sci-Fi,Thriller,Western",English
+Movie,Arbitrage,Nicholas Jarecki,"United States,Poland",2012,107,"Drama,Thriller",English
+Movie,Plus One,"Jeff Chan,Andrew Rhymer",United States,2019,98,"Comedy,Drama,Romance",English
+Movie,Active Measures,Jack Bryan,United States,2018,109,Documentary,English
+Movie,Amazing Grace,Michael Apted,"United States,United Kingdom",2018,118,"Biography,Drama,History,Romance",English
+Movie,The Art of Self-Defense,Riley Stearns,United States,2019,104,"Comedy,Crime,Drama,Mystery,Thriller","English,French,German"
+Movie,The Clovehitch Killer,Duncan Skiles,United States,2018,109,"Crime,Drama,Mystery,Thriller",English
+Movie,Rare Exports: A Christmas Tale,Jalmari Helander,"Finland,Norway,France,Sweden",2010,84,"Adventure,Fantasy,Horror","Finnish,English"
+Movie,Venus in Fur,Roman Polanski,"France,Poland",2013,96,Drama,"French,German"
+Movie,Jackass 3D,Jeff Tremaine,United States,2010,95,"Documentary,Action,Comedy",English
+Movie,I Kill Giants,Anders Walter,"United States,Belgium,Denmark,United Kingdom,Sweden,China",2018,106,"Drama,Fantasy,Thriller",English
+Movie,The Queen of Versailles,Lauren Greenfield,"United States,Netherlands,United Kingdom,Denmark",2012,100,Documentary,"French,English"
+Movie,2 Days in Paris,Julie Delpy,"France,Germany",2007,96,"Comedy,Drama,Romance","English,French"
+Movie,The Wrecking Crew,Phil Karlson,United States,2008,105,"Action,Adventure,Comedy,Crime,Drama,Thriller",English
+Movie,The Villainess,Byung-gil Jung,South Korea,2017,124,"Action,Thriller",Korean
+Movie,Europa Report,Sebastián Cordero,United States,2013,90,"Drama,Mystery,Sci-Fi,Thriller","English,Russian,Chinese"
+Movie,The Cooler,Wayne Kramer,United States,2003,101,"Drama,Romance",English
+Movie,In the Fade,Fatih Akin,"Germany,France",2017,106,"Crime,Drama,Thriller","German,Greek,English,Turkish"
+Movie,The Road to El Dorado,"Bibo Bergeron,Don Paul,Jeffrey Katzenberg",United States,2000,89,"Animation,Adventure,Comedy,Family,Romance",English
+Movie,Christine,John Carpenter,United States,2016,110,"Horror,Thriller",English
+Movie,Hearts Beat Loud,Brett Haley,United States,2018,97,"Comedy,Drama,Music",English
+Movie,Whitney,,United States,2018,30,Comedy,English
+Movie,Angel of Mine,Kim Farrant,"Australia,United States",2019,98,"Drama,Mystery,Thriller",English
+Movie,Hounds of Love,Ben Young,Australia,2016,108,"Crime,Drama,Thriller",English
+Movie,Pawn Sacrifice,Edward Zwick,United States,2015,115,"Biography,Drama,Sport,Thriller","English,Russian"
+Movie,Transformers: Dark of the Moon,Michael Bay,United States,2011,154,"Action,Adventure,Sci-Fi",English
+Movie,Ben Is Back,Peter Hedges,United States,2018,103,Drama,English
+Movie,Wayne's World 2,Stephen Surjik,United States,1993,95,"Comedy,Music","English,Cantonese"
+Movie,No Strings Attached,Ivan Reitman,"United States,United Kingdom",2011,108,"Comedy,Romance","English,Ukrainian"
+Movie,Along with the Gods: The Two Worlds,Yong-hwa Kim,South Korea,2017,139,"Action,Drama,Fantasy",Korean
+Movie,Young & Beautiful,François Ozon,France,2013,95,"Drama,Romance","French,German"
+Movie,The Pirates! In an Adventure with Scientists!,"Peter Lord,Jeff Newitt","United Kingdom,United States",2012,88,"Animation,Adventure,Comedy,Family",English
+Movie,Lo and Behold: Reveries of the Connected World,Werner Herzog,United States,2016,98,Documentary,English
+Movie,Operation Finale,Chris Weitz,United States,2018,122,"Biography,Drama,History,Thriller,War","English,Spanish,French,German"
+Movie,78/52,Alexandre O. Philippe,United States,2017,91,Documentary,English
+Movie,Gloria,Edward Zwick,United States,2013,122,"Biography,Drama,History,War",English
+Movie,Princess Cyd,Stephen Cone,United States,2017,96,"Drama,Romance",English
+Movie,The Domestics,Mike P. Nelson,United States,2018,95,"Action,Horror,Sci-Fi,Thriller",English
+Movie,Andy Irons: Kissed by God,"Steve Jones,Todd Jones",United States,2018,100,Documentary,English
+Movie,Joe Strummer: The Future Is Unwritten,Julien Temple,"Ireland,United Kingdom",2007,124,"Documentary,Biography,Music",English
+Movie,The Commuter,Jaume Collet-Serra,"China,France,United States",2018,105,"Action,Mystery,Thriller","English,Spanish"
+Movie,Dirty Wars,Rick Rowley,United States,2013,87,"Documentary,Crime,Mystery,News,War","English,Pushto,Somali,Dari,Arabic"
+Movie,Soul Food,George Tillman Jr.,United States,1997,115,"Comedy,Drama",English
+Movie,Sidewalls,Gustavo Taretto,"Argentina,Spain,Germany",2011,95,"Comedy,Drama","Spanish,French,English,Italian,German"
+Movie,Miss Stevens,Julia Hart,United States,2016,86,"Comedy,Drama",English
+Movie,Footloose,Craig Brewer,United States,2011,113,"Comedy,Drama,Music,Romance",English
+Movie,Charlotte's Web,Gary Winick,"United States,Germany,Australia",1973,97,"Comedy,Family,Fantasy",English
+Movie,Shirley Valentine,Lewis Gilbert,"United Kingdom,United States",1989,108,"Comedy,Drama,Romance",English
+Movie,Drinking Buddies,Joe Swanberg,United States,2013,90,"Comedy,Drama,Romance",English
+Movie,The Keeper of Lost Causes,Mikkel Nørgaard,"Denmark,Germany,Sweden,Norway",2013,96,"Crime,Mystery,Thriller","Danish,Swedish,Arabic"
+Movie,Sea of Shadows,"Richard Ladkani,Sean Bogle,Matthew Podolsky","Austria,Australia,Germany,United States",2019,104,"Documentary,Crime,History","English,Spanish"
+Movie,Oh Lucy!,Atsuko Hirayanagi,"Japan,United States",2017,95,"Comedy,Drama","English,Japanese"
+Movie,The Spy Who Dumped Me,Susanna Fogel,"Canada,United States,Hungary",2018,117,"Action,Adventure,Comedy","English,Russian,French,Lithuanian,German"
+Movie,Skate Kitchen,Crystal Moselle,"United States,United Kingdom,Brazil",2018,106,Drama,"English,Spanish"
+Movie,Experimenter,Michael Almereyda,United States,2015,98,"Biography,Drama,History",English
+Movie,What They Had,Elizabeth Chomko,United States,2018,101,Drama,English
+Movie,Burn,Mike Gan,United States,2012,88,Thriller,English
+Movie,Margarita with a Straw,"Shonali Bose,Nilesh Maniyar",India,2015,100,Drama,"Hindi,English"
+Movie,Odd Thomas,Stephen Sommers,"United States,United Kingdom",2013,100,"Comedy,Fantasy,Horror,Mystery,Romance,Thriller",English
+Movie,Every Day,Michael Sucsy,"Canada,United Kingdom,United States",2018,97,"Drama,Fantasy,Romance",English
+Movie,Nothing Like a Dame,Roger Michell,United Kingdom,2018,84,Documentary,English
+Movie,Brian Banks,Tom Shadyac,United States,2019,99,"Biography,Drama,Sport",English
+Movie,It's a Disaster,Todd Berger,United States,2013,88,"Comedy,Drama",English
+Movie,The Little Death,Josh Lawson,Australia,2014,96,"Comedy,Drama,Romance","English,Australian Sign Language"
+Movie,Becoming Bond,Josh Greenbaum,United States,2017,95,"Documentary,Biography,Comedy,History",English
+Movie,After the Screaming Stops,"Joe Pearlman,David Soutar",United Kingdom,2018,98,"Documentary,Music",English
+Movie,Slums of Beverly Hills,Tamara Jenkins,United States,1998,91,"Comedy,Drama",English
+Movie,Lords of Chaos,Jonas Åkerlund,"United Kingdom,Sweden,Norway",2019,118,"Biography,Drama,Horror,Music,Thriller",English
+Movie,The Frozen Ground,Scott Walker,United States,2013,105,"Crime,Drama,Thriller","English,French"
+Movie,Paranoid Park,Gus Van Sant,"France,United States",2007,85,"Crime,Drama,Mystery",English
+Movie,The Hunchback of Notre Dame,"Gary Trousdale,Kirk Wise","United States,France",1923,91,"Animation,Drama,Family,Musical,Romance","English,Latin"
+Movie,Support the Girls,Andrew Bujalski,United States,2018,93,"Comedy,Drama",English
+Movie,The China Hustle,Jed Rothstein,United States,2018,82,Documentary,English
+Movie,Paranormal Activity 3,"Henry Joost,Ariel Schulman",United States,2011,83,"Horror,Mystery,Thriller",English
+Movie,Death Wish,Eli Roth,"United States,Canada",2018,107,"Action,Crime,Drama,Thriller","English,Spanish"
+Movie,Cold Case Hammarskjöld,Mads Brügger,"Denmark,Norway,Sweden,Belgium",2019,128,"Documentary,Animation,History","English,French,Swedish,Bemba,Danish"
+Movie,Anna and the Apocalypse,John McPhail,United Kingdom,2017,93,"Comedy,Horror,Musical",English
+Movie,Somm,Jason Wise,United States,2013,94,Documentary,"English,Italian,German,French"
+Movie,"Love, Gilda",Lisa D'Apolito,"Canada,United States",2018,88,Documentary,"English,French"
+Movie,Star Trek: Insurrection,Jonathan Frakes,United States,1998,103,"Action,Adventure,Sci-Fi,Thriller",English
+Movie,Bad Company,Wes Craven,United States,1972,84,"Horror,Thriller",English
+Movie,Dior and I,Frédéric Tcheng,France,2015,90,Documentary,"French,English,Italian"
+Movie,"Where'd You Go, Bernadette",Richard Linklater,United States,2019,109,"Comedy,Drama",English
+Movie,Gorky Park,Michael Apted,United States,1983,128,"Crime,Drama,Mystery,Thriller",English
+Movie,Beach Rats,Eliza Hittman,United States,2017,98,Drama,English
+Movie,Manderlay,Lars von Trier,"Denmark,Sweden,Netherlands,France,Germany,United Kingdom,Italy,United States",2005,139,Drama,English
+Movie,High Strung,Michael Damian,"Romania,United States",2016,96,"Drama,Music,Romance",English
+Movie,The Last Days,"David Pastor,Àlex Pastor","Spain,France",2013,100,"Horror,Sci-Fi,Thriller","Spanish,Catalan"
+Movie,Free Willy,Simon Wincer,"United States,France,Mexico",1993,112,"Adventure,Drama,Family",English
+Movie,First Girl I Loved,Kerem Sanga,United States,2016,90,"Drama,Romance","English,Spanish"
+Movie,Man on a Ledge,Asger Leth,United States,2012,102,"Action,Adventure,Crime,Thriller","English,Spanish"
+Movie,Barking Dogs Never Bite,Bong Joon Ho,South Korea,2000,110,Comedy,Korean
+Movie,Destroyer,Karyn Kusama,United States,2018,121,"Action,Crime,Drama,Mystery,Thriller",English
+Movie,Meek's Cutoff,Kelly Reichardt,United States,2010,104,"Drama,Western",English
+Movie,No One Knows About Persian Cats,Bahman Ghobadi,Iran,2009,106,"Drama,Music",Persian
+Movie,Villains,"Dan Berk,Robert Olsen",United States,2019,90,"Comedy,Drama,Horror,Thriller",English
+Movie,The Limehouse Golem,Juan Carlos Medina,United Kingdom,2016,109,"Crime,Mystery,Thriller","Yiddish,English,Irish,Chinese,Hebrew"
+Movie,Walking Tall,Kevin Bray,United States,1973,86,"Action,Crime",English
+Movie,Tragedy Girls,Tyler MacIntyre,United States,2017,98,"Comedy,Crime,Horror",English
+Movie,Pet Sematary,"Kevin Kölsch,Dennis Widmyer","United States,Canada",2019,101,"Horror,Mystery,Thriller",English
+Movie,The Overnight,Patrick Brice,United States,2015,79,"Comedy,Mystery","English,French"
+Movie,Star Trek: The Motion Picture,Robert Wise,United States,1979,132,"Adventure,Mystery,Sci-Fi","English,Klingon"
+Movie,Crime + Punishment,Rob Schmidt,United States,2018,100,"Drama,Thriller",English
+Movie,Vincere,Marco Bellocchio,"Italy,France",2009,128,"Biography,Drama,Romance","Italian,German"
+Movie,Southbound,"Roxanne Benjamin,Matt Bettinelli-Olpin,David Bruckner,Tyler Gillett,Patrick Horvath,Justin Martinez,Radio Silence,Chad Villella",United States,2015,89,"Fantasy,Horror,Thriller",English
+Movie,The Quake,John Andreas Andersen,Norway,2018,106,"Action,Drama,Thriller",Norwegian
+Movie,American Ultra,Nima Nourizadeh,"United States,Switzerland",2015,96,"Action,Comedy","English,Mandarin"
+Movie,Hellbound: Hellraiser II,Tony Randel,United Kingdom,1988,97,"Horror,Thriller",English
+Movie,The Hero,Brett Haley,United States,2017,96,"Drama,Romance,Western",English
+Movie,Tom of Finland,Dome Karukoski,"Finland,Sweden,Denmark,Germany,Iceland,United States",2017,117,"Biography,Drama","Finnish,English,German"
+Movie,Fyre Fraud,"Jenner Furst,Julia Willoughby Nason",United States,2019,96,Documentary,English
+Movie,David Crosby: Remember My Name,A.J. Eaton,United States,2019,95,"Documentary,Music","English,Italian"
+Movie,Gilbert,Neil Berkeley,United States,2017,94,"Documentary,Biography,Comedy",English
+Movie,Framing John DeLorean,"Don Argott,Sheena M. Joyce",United States,2019,109,"Documentary,Biography,Drama",English
+Movie,Marrowbone,Sergio G. Sánchez,"Spain,United States",2017,110,"Drama,Horror,Mystery,Thriller",English
+Movie,Kusama : Infinity,Heather Lenz,United States,2018,76,Documentary,"English,Japanese"
+Movie,Please Stand By,,United States,2018,51,"Fantasy,Horror,Sci-Fi,Drama,Mystery,Thriller",English
+Movie,Those People,Joey Kuhn,United States,2015,89,"Drama,Romance",English
+Movie,The Time That Remains,Elia Suleiman,"United Kingdom,Italy,Belgium,France,Palestine,Israel",2009,109,"Drama,History","Arabic,Hebrew,English"
+Movie,The Mexican,Gore Verbinski,"United States,Mexico",2001,123,"Adventure,Comedy,Crime,Romance","English,Spanish"
+Movie,Paranormal Activity 2,Tod Williams,United States,2010,91,Horror,"English,Spanish"
+Movie,Red Dog: True Blue,Kriv Stenders,Australia,2016,88,"Comedy,Drama,Family,Romance",English
+Movie,Assassination Nation,Sam Levinson,United States,2018,108,"Action,Comedy,Crime,Drama,Horror,Thriller","English,Italian"
+Movie,Friends with Kids,Jennifer Westfeldt,United States,2012,107,"Comedy,Drama,Romance",English
+Movie,Diana Vreeland: The Eye Has to Travel,"Lisa Immordino Vreeland,Bent-Jorgen Perlmutt,Frédéric Tcheng",United States,2012,86,"Documentary,Biography","English,French,Italian"
+Movie,I Remember You,Óskar Thór Axelsson,Iceland,2017,105,"Drama,Horror,Mystery,Thriller",Icelandic
+Movie,Forever My Girl,Bethany Ashton Wolf,United States,2018,108,"Drama,Music,Romance",English
+Movie,The Furies,Tony D'Aquino,"Australia,United Arab Emirates",1950,82,"Action,Horror,Thriller",English
+Movie,Meeting Gorbachev,"Werner Herzog,André Singer","United Kingdom,Germany,United States",2019,90,"Documentary,Biography,History","English,Russian,German,Polish"
+Movie,Welcome to the Rileys,Jake Scott,"United Kingdom,United States",2010,110,Drama,English
+Movie,Hector and the Search for Happiness,Peter Chelsom,"Germany,Canada,United Kingdom,South Africa,United States",2014,120,"Adventure,Comedy,Drama","English,French,German"
+Movie,Bad Reputation,Jim Hemphill,United States,2018,90,"Drama,Horror,Thriller",English
+Movie,Waiting to Exhale,Forest Whitaker,United States,1995,124,"Comedy,Drama,Romance",English
+Movie,Pyewacket,Adam MacDonald,Canada,2017,90,"Drama,Horror,Mystery,Thriller",English
+Movie,The Swan Princess,Richard Rich,United States,1994,93,"Animation,Comedy,Family,Fantasy,Musical,Romance",English
+Movie,Grabbers,Jon Wright,"Ireland,United Kingdom",2012,94,"Action,Adventure,Comedy,Horror,Sci-Fi,Thriller",English
+Movie,Aniara,"Pella Kagerman,Hugo Lilja","Sweden,Denmark",2019,106,"Drama,Sci-Fi","Swedish,Spanish,English"
+Movie,The Housemaid,Sang-soo Im,South Korea,2010,107,"Drama,Thriller","Korean,English"
+Movie,Little Woods,Nia DaCosta,United States,2018,105,"Crime,Drama,Western",English
+Movie,"Elvira, Mistress of the Dark",,,1988,,Talk-Show,
+Movie,In Search of Greatness,Gabe Polsky,United States,2018,77,Documentary,English
+Movie,Food Evolution,Scott Hamilton Kennedy,United States,2017,92,Documentary,English
+Movie,Sinbad: Legend of the Seven Seas,"Patrick Gilmore,Tim Johnson",United States,2003,86,"Animation,Adventure,Family,Fantasy","English,Cantonese,Italian"
+Movie,The Den,Zachary Donohue,United States,2013,81,"Horror,Mystery,Thriller",English
+Movie,Wolf Warrior 2,Jing Wu,China,2017,123,"Action,Drama,Thriller,War","Mandarin,English,French"
+Movie,Dumb: The Story of Big Brother Magazine,Patrick O'Dell,United States,2017,79,Documentary,English
+Movie,Goodbye First Love,Mia Hansen-Løve,"France,Germany",2011,110,"Drama,Romance","French,German,Danish,English"
+Movie,The 33,Patricia Riggen,"Chile,Colombia,Spain,United States",2015,127,"Biography,Drama,History","English,Spanish"
+Movie,Mike Wallace Is Here,Avi Belkin,United States,2019,90,"Documentary,Biography","English,Russian,Persian"
+Movie,March of the Penguins 2,Luc Jacquet,France,2017,85,"Documentary,Family","English,French"
+Movie,Teen Spirit,Max Minghella,"United Kingdom,United States",2019,93,"Drama,Music","English,Polish"
+Movie,Seymour: An Introduction,Ethan Hawke,United States,2015,84,"Documentary,Biography,Music",English
+Movie,The Man Who Killed Hitler and Then the Bigfoot,Robert D. Krzykowski,United States,2019,98,"Adventure,Drama,Sci-Fi,War","English,Russian"
+Movie,The Childhood of a Leader,Brady Corbet,"United States,Canada,United Kingdom,France,Hungary,Belgium",2016,115,Drama,"English,French,German"
+Movie,The Standoff at Sparrow Creek,Henry Dunham,United States,2019,88,"Crime,Drama,Thriller",English
+Movie,A Very Sordid Wedding,Del Shores,United States,2017,109,Comedy,English
+Movie,Toni Morrison: The Pieces I Am,Timothy Greenfield-Sanders,United States,2019,120,Documentary,English
+Movie,Dina,,"United States,Canada,Germany,Italy",2017,265,"Adventure,Drama,Fantasy,Sci-Fi","English,Italian"
+Movie,Dog Days,Ken Marino,United States,2018,113,"Comedy,Drama,Romance",English
+Movie,Monsters and Men,Reinaldo Marcus Green,United States,2018,96,"Crime,Drama,Thriller",English
+Movie,The Canal,Ivan Kavanagh,"Ireland,United Kingdom",2014,92,"Horror,Mystery,Thriller",English
+Movie,Leap Year,Anand Tucker,"United States,Ireland",2010,100,"Comedy,Romance","English,Ukrainian"
+Movie,Raise Hell: The Life & Times of Molly Ivins,Janice Engel,United States,2019,93,Documentary,English
+Movie,Under the Tree,Hafsteinn Gunnar Sigurðsson,"Iceland,Poland,Denmark,Germany,France",2017,89,"Comedy,Drama,Mystery,Thriller",Icelandic
+Movie,The League of Extraordinary Gentlemen,Stephen Norrington,"United States,Germany,Czech Republic,United Kingdom",2003,110,"Action,Adventure,Fantasy,Sci-Fi","English,German,Italian"
+Movie,Hello I Must Be Going,Courteney Cox,United States,2012,95,"Comedy,Drama",English
+Movie,Two Trains Runnin',Sam Pollard,United States,2016,80,"Documentary,Music",English
+Movie,The Jewel of the Nile,Lewis Teague,United States,1985,106,"Action,Adventure,Comedy,Romance","English,Arabic"
+Movie,Middle Men,George Gallo,United States,2009,105,"Comedy,Crime,Drama",English
+Movie,Before I Go to Sleep,Rowan Joffe,"United Kingdom,United States,France,Sweden",2014,92,"Drama,Horror,Mystery,Thriller",English
+Movie,Eating Animals,Christopher Dillon Quinn,"United Kingdom,India,Germany,China,United States",2018,94,Documentary,English
+Movie,Mom and Dad,Brian Taylor,"United States,United Kingdom",2018,86,"Comedy,Horror,Thriller",English
+Movie,Touched with Fire,Paul Dalio,United States,2016,106,"Drama,Romance",English
+Movie,Cunningham,Alla Kovgan,"Germany,France,United States",2019,93,"Documentary,Biography,Music",English
+Movie,Starfish,A.T. White,United States,2018,99,"Drama,Horror,Sci-Fi",English
+Movie,The Yellow Handkerchief,Udayan Prasad,United States,2009,102,"Drama,Romance",English
+Movie,The First Monday in May,Andrew Rossi,United States,2016,90,Documentary,English
+Movie,The Miracle Season,Sean McNamara,United States,2018,101,"Drama,Sport",English
+Movie,Burden,Andrew Heckler,United States,2016,117,Drama,English
+Movie,Downsizing,Alexander Payne,"United States,Norway",2017,135,"Drama,Sci-Fi","English,Spanish,Norwegian,French,Korean,Greek,Vietnamese"
+Movie,Lowlife,James Gray,United States,2017,120,"Drama,Romance","English,Polish,Latin"
+Movie,The Blue Room,Mathieu Amalric,France,2014,76,"Crime,Romance,Thriller",French
+Movie,The Chumscrubber,Arie Posin,"United States,Germany",2005,108,"Comedy,Drama",English
+Movie,Pledge,Sean Penn,United States,2019,124,"Crime,Drama,Mystery,Thriller",English
+Movie,Universal Soldier,Roland Emmerich,United States,1992,102,"Action,Sci-Fi",English
+Movie,Non-Fiction,Olivier Assayas,France,2018,108,"Comedy,Drama,Romance",French
+Movie,Larger than Life: The Kevyn Aucoin Story,Tiffany Bartok,United States,2017,102,Documentary,English
+Movie,The Bookshop,Isabel Coixet,"United Kingdom,Spain,Germany",2017,113,Drama,English
+Movie,Baskın,Gareth Evans,"Indonesia,France,United States",2015,101,"Action,Thriller",Indonesian
+Movie,A Life Less Ordinary,Danny Boyle,"United Kingdom,United States",1997,103,"Comedy,Crime,Fantasy,Romance",English
+Movie,Girls Just Want to Have Fun,Alan Metter,United States,1985,90,"Comedy,Music,Romance",English
+Movie,The Ant Bully,John A. Davis,United States,2006,88,"Animation,Adventure,Comedy,Family,Fantasy",English
+Movie,Overboard,Garry Marshall,United States,2018,112,"Comedy,Romance","English,French,Portuguese"
+Movie,Henry Gamble's Birthday Party,Stephen Cone,United States,2015,87,Drama,English
+Movie,"Nico, 1988",Susanna Nicchiarelli,"Italy,Belgium",2017,93,"Biography,Drama,Music","English,German,Czech,French"
+Movie,Diane,Kent Jones,United States,2019,95,Drama,English
+Movie,Joshy,Jeff Baena,United States,2016,93,Comedy,English
+Movie,Leaving,Catherine Corsini,France,2009,85,"Crime,Drama,Romance","French,Catalan,English"
+Movie,Finding Your Feet,Richard Loncraine,United Kingdom,2017,111,"Comedy,Drama,Music,Romance","English,Italian,French,Welsh"
+Movie,The Princess of Montpensier,Bertrand Tavernier,"France,Germany",2010,139,"Action,Drama,History,Romance,War",French
+Movie,Citizen Jane: Battle for the City,Matt Tyrnauer,United States,2017,92,"Documentary,Biography,History",English
+Movie,High-Rise,Ben Wheatley,"United Kingdom,Ireland,Belgium",2015,119,"Drama,Sci-Fi",English
+Movie,Unlocked,Michael Apted,"Czech Republic,Switzerland,United Kingdom,United States,France",2017,98,"Action,Drama,Mystery,Thriller","English,Arabic,German"
+Movie,Far From The Tree,"Rachel Dretzin,Jamila Ephron",United States,2017,93,Documentary,English
+Movie,Freak Show,"Tom Stern,Alex Winter",United States,2018,86,"Comedy,Sci-Fi",English
+Movie,C.S.A.: The Confederate States of America,Kevin Willmott,United States,2005,89,"Comedy,Drama,War",English
+Movie,AWOL,Danny Mooney,United States,2017,100,"Drama,Romance,War",English
+Movie,Haze,David Burkman,United States,2017,106,"Drama,Thriller",English
+Movie,Maze,Priyadarshan,India,2017,159,"Comedy,Horror,Mystery,Thriller","Hindi,Bengali"
+Movie,Legion of Brothers,Greg Barker,United States,2017,79,"Documentary,War",English
+Movie,Mister America,Eric Notarnicola,United States,2019,89,Comedy,English
+Movie,The Archer,Valerie Weiss,United States,2017,86,"Drama,Thriller",English
+Movie,Tank Girl,Rachel Talalay,"United States,United Kingdom",1995,104,"Action,Comedy,Sci-Fi",English
+Movie,Little Joe,Jessica Hausner,"United Kingdom,Austria,Germany",2019,105,"Drama,Horror,Mystery,Sci-Fi",English
+Movie,Scotch: A Golden Dream,Andrew Peat,"United Kingdom,Taiwan",2019,89,Documentary,English
+Movie,The Prodigy,Nicholas McCarthy,"United States,Canada",2019,92,"Horror,Thriller",English
+Movie,Divide and Conquer: The Story of Roger Ailes,Alexis Bloom,United States,2018,107,Documentary,English
+Movie,This Is Not Berlin,Hari Sama,Mexico,2019,115,Drama,Spanish
+Movie,The Last Word,David Mackenzie,"United Kingdom,Sweden,Denmark,Ireland",2017,92,"Drama,Romance,Sci-Fi","English,Sign Languages"
+Movie,The Hustle,Chris Addison,United States,2019,93,"Comedy,Crime","English,German,Dutch,Danish,French,American Sign Language"
+Movie,The Unicorn,,United States,2019,22,"Comedy,Drama,Family",English
+Movie,Whose Streets?,"Sabaah Folayan,Damon Davis",United States,2017,90,Documentary,English
+Movie,Vox Lux,Brady Corbet,United States,2018,114,"Drama,Music","English,Croatian,Chinese"
+Movie,Take Every Wave: The Life of Laird Hamilton,Rory Kennedy,United States,2018,118,"Documentary,Sport",English
+Movie,Leaning Into the Wind: Andy Goldsworthy,Thomas Riedelsheimer,"United Kingdom,Germany",2018,97,Documentary,"English,Portuguese,French"
+Movie,The Amazing Johnathan Documentary,Benjamin Berman,United States,2019,91,Documentary,English
+Movie,Unmade Beds,Alexis Dos Santos,United Kingdom,2009,97,"Comedy,Drama","English,French,Spanish,Italian"
+Movie,Case 39,Christian Alvart,"United States,Canada",2009,109,"Horror,Mystery,Thriller",English
+Movie,The X Files: I Want to Believe,Chris Carter,"United States,Canada",2008,104,"Crime,Drama,Horror,Mystery,Sci-Fi,Thriller","English,Russian,Czech"
+Movie,The Gospel According to André,Kate Novack,United States,2018,93,Documentary,English
+Movie,A Good Old Fashioned Orgy,"Alex Gregory,Peter Huyck",United States,2011,95,"Comedy,Romance",English
+Movie,Children of the Corn,Fritz Kiersch,United States,1984,92,"Horror,Thriller",English
+Movie,The Osiris Child,Shane Abbess,Australia,2016,99,"Action,Adventure,Drama,Fantasy,Horror,Sci-Fi,Thriller",English
+Movie,Friday the 13th: The Final Chapter,Joseph Zito,United States,1984,91,"Horror,Thriller",English
+Movie,Ballet 422,Jody Lee Lipes,United States,2014,75,"Documentary,Music,Sport",English
+Movie,Shelley,Ali Abbasi,"Denmark,Sweden",2016,92,"Drama,Horror","Danish,English,Norwegian,Swedish,Romanian"
+Movie,The Escape,Dominic Savage,United Kingdom,2018,101,Drama,English
+Movie,Where Hands Touch,Amma Asante,United Kingdom,2018,122,"Drama,Romance,War",English
+Movie,The Myth of the American Sleepover,David Robert Mitchell,United States,2011,96,"Comedy,Drama,Romance",English
+Movie,Jawline,Liza Mandelup,United States,2019,99,Documentary,English
+Movie,Anchor and Hope,Carlos Marques-Marcet,"Spain,United Kingdom",2017,113,"Comedy,Drama,Romance","English,Spanish"
+Movie,Antiviral,Brandon Cronenberg,"Canada,France",2012,108,"Horror,Mystery,Sci-Fi,Thriller",English
+Movie,Flower,Max Winkler,United States,2017,90,"Comedy,Drama",English
+Movie,All Square,John Hyams,United States,2018,93,Drama,English
+Movie,The Day Shall Come,Christopher Morris,"United Kingdom,United States",2019,87,"Comedy,Crime",English
+Movie,Depraved,Larry Fessenden,United States,2019,114,"Drama,Horror,Thriller",English
+Movie,Wonder Park,Dylan Brown,"Spain,United States",2019,85,"Animation,Adventure,Comedy,Family,Fantasy",English
+Movie,Go Tigers!,Kenneth A. Carlson,United States,2001,103,"Documentary,Sport",English
+Movie,Already Tomorrow in Hong Kong,Emily Ting,"United States,Hong Kong",2016,78,"Comedy,Romance",English
+Movie,We Are What We Are,Jim Mickle,"United States,France",2010,105,"Drama,Horror,Thriller",English
+Movie,Hungry Hearts,Saverio Costanzo,Italy,2015,109,"Drama,Romance,Thriller",English
+Movie,The Tall Man,Pascal Laugier,"United States,Canada,France",2012,106,"Crime,Drama,Horror,Mystery,Thriller",English
+Movie,Scenic Route,"Kevin Goetz,Michael Goetz",United States,2013,82,"Drama,Thriller",English
+Movie,Ms. Purple,Justin Chon,United States,2019,87,Drama,English
+Movie,What Men Want,Adam Shankman,United States,2019,117,"Comedy,Fantasy,Romance","English,Mandarin"
+Movie,A Crooked Somebody,Trevor White,United States,2018,102,"Crime,Drama,Thriller",English
+Movie,The Kid,Vincent D'Onofrio,United States,2019,100,"Biography,Drama,Western",English
+Movie,Do I Sound Gay?,David Thorpe,United States,2015,77,Documentary,"English,French"
+Movie,The Beach Bum,Harmony Korine,"Switzerland,United Kingdom,France,United States",2019,95,Comedy,"English,Spanish"
+Movie,The Whistle Blower,Simon Langton,United Kingdom,1986,100,Thriller,"English,Russian"
+Movie,Road Games,Richard Franklin,Australia,2015,101,"Horror,Mystery,Thriller",English
+Movie,Let the Sunshine In,Claire Denis,"France,Belgium",2017,94,"Comedy,Drama,Romance",French
+Movie,Wild Card,Simon West,United States,2015,92,"Action,Crime,Drama,Thriller",English
+Movie,Æon Flux,Karyn Kusama,"United States,Germany,Brazil,Italy",2005,93,"Action,Adventure,Sci-Fi,Thriller",English
+Movie,Brick Mansions,Camille Delamarre,"France,Canada,United States,Spain",2014,90,"Action,Crime,Thriller","English,Chinese"
+Movie,Planet 51,"Jorge Blanco,Javier Abad,Marcos Martínez","Spain,United Kingdom,United States",2009,91,"Animation,Adventure,Comedy,Family,Sci-Fi","English,Spanish"
+Movie,Padre nuestro,Aisling Walsh,"Ireland,United Kingdom,Denmark,Spain",2007,94,"Drama,History",English
+Movie,Run the Race,Chris Dowling,United States,2019,101,"Drama,Sport",English
+Movie,Ramen Heads,Koki Shigeno,Japan,2017,93,Documentary,Japanese
+Movie,Beyond the Gates,Jackson Stewart,United States,2016,84,"Adventure,Horror",English
+Movie,House of D,David Duchovny,United States,2004,97,"Comedy,Drama","English,French"
+Movie,The Devil's Doorway,Aislinn Clarke,"Ireland,United Kingdom",2018,76,Horror,English
+Movie,Changeland,Seth Green,United States,2019,86,"Comedy,Drama","English,Thai"
+Movie,The Year of Spectacular Men,Lea Thompson,United States,2018,102,"Comedy,Drama,Romance",English
+Movie,In Paris,Christophe Honoré,"France,Portugal",2006,92,"Drama,Romance",French
+Movie,Trigun: Badlands Rumble,Satoshi Nishimura,Japan,2010,90,"Animation,Action,Sci-Fi,Western",Japanese
+Movie,Digging for Fire,Joe Swanberg,United States,2015,85,"Comedy,Drama","English,Spanish"
+Movie,Before We Vanish,Kiyoshi Kurosawa,Japan,2017,129,"Drama,Sci-Fi",Japanese
+Movie,Here to be Heard: The Story of the Slits,William E. Badgley,,2018,86,"Documentary,Music",English
+Movie,The Lorax,"Chris Renaud,Kyle Balda","United States,France",1972,86,"Animation,Adventure,Comedy,Drama,Family,Fantasy,Musical",English
+Movie,Stella's Last Weekend,Polly Draper,United States,2018,102,"Comedy,Drama",English
+Movie,Kiki,Paco León,Spain,2017,102,"Comedy,Romance","Spanish,English,Spanish Sign Language"
+Movie,Midnighters,Julius Ramsay,United States,2018,94,"Crime,Drama,Horror,Mystery,Thriller",English
+Movie,The Brink,,United States,2019,30,Comedy,English
+Movie,Damsel,"David Zellner,Nathan Zellner",United States,2018,113,"Adventure,Comedy,Crime,Drama,Romance,Western",English
+Movie,Killing Them Safely,Nick Berardini,"Canada,United States",2015,100,"Documentary,Drama",English
+Movie,Conan the Barbarian,John Milius,"United States,Spain,Mexico",2011,129,"Action,Adventure,Fantasy",English
+Movie,Family Law,,United States,2006,60,"Crime,Drama,Romance",English
+Movie,Cantinflas,Sebastian del Amo,Mexico,2014,102,"Biography,Comedy,Drama,Romance","Spanish,English"
+Movie,Madea's Big Happy Family,Tyler Perry,United States,2011,106,"Comedy,Drama",English
+Movie,What We Become,Bo Mikkelsen,Denmark,2015,85,"Horror,Thriller",Danish
+Movie,Free Birds,Jimmy Hayward,United States,2013,91,"Animation,Adventure,Comedy,Family,Sci-Fi",English
+Movie,Righteous Kill,Jon Avnet,United States,2008,101,"Crime,Drama,Mystery,Thriller","English,Spanish,Russian"
+Movie,I Still See You,Scott Speer,United States,2018,98,"Fantasy,Horror,Sci-Fi,Thriller",English
+Movie,Men with Brooms,Paul Gross,Canada,2002,102,"Comedy,Drama,Romance,Sport","English,American Sign Language,German"
+Movie,The Girl King,Mika Kaurismäki,"Finland,Germany,Canada,Sweden,France",2015,106,"Biography,Drama,History,Romance","English,French,German,Latin"
+Movie,Foxfire,Annette Haywood-Carter,United States,1996,102,Drama,English
+Movie,WolfCop,Lowell Dean,Canada,2014,79,"Comedy,Horror",English
+Movie,Star Trek V: The Final Frontier,William Shatner,United States,1989,107,"Action,Adventure,Fantasy,Sci-Fi,Thriller","English,Klingon"
+Movie,Pilgrimage,Brendan Muldowney,"Ireland,Belgium,United States",2017,96,"Action,Drama,History","English,Irish,French,Latin"
+Movie,UglyDolls,Kelly Asbury,"China,Canada,United States,Thailand",2019,87,"Animation,Adventure,Comedy,Family,Fantasy,Musical",English
+Movie,Vita & Virginia,Chanya Button,"Ireland,United Kingdom",2019,110,"Biography,Drama,Romance",English
+Movie,Dementia,Francis Ford Coppola,"United States,Ireland",2015,75,"Horror,Thriller",English
+Movie,Acrimony,Tyler Perry,United States,2018,120,"Drama,Romance,Thriller",English
+Movie,Afro Samurai: Resurrection,Fuminori Kizaki,"United States,Japan",2009,97,"Animation,Action,Adventure,Drama,Fantasy,Sci-Fi",English
+Movie,Friday the 13th Part III,Steve Miner,United States,1982,95,"Horror,Thriller",English
+Movie,Fun in Acapulco,Richard Thorpe,United States,1963,97,"Comedy,Music",English
+Movie,Mad to Be Normal,Robert Mullan,United Kingdom,2017,106,"Biography,Drama,History",English
+Movie,The Last Race,"Stephen Shin,Michael Parker","China,Hong Kong,United States",2018,108,"Drama,History,Sport","English,Mandarin,Japanese"
+Movie,Undrafted,Joseph Mazzello,United States,2016,90,"Comedy,Drama,Sport",English
+Movie,2:22,John Suits,United States,2017,91,Sci-Fi,"English,French"
+Movie,The Cleanse,Bobby Miller,"Canada,United States",2018,81,"Comedy,Drama,Fantasy,Horror",English
+Movie,Take My Nose... Please!,Joan Kron,"United States,Mexico",2017,92,"Documentary,Comedy,History",English
+Movie,10x10,Suzi Ewing,United Kingdom,2018,88,Thriller,English
+Movie,Harry Benson: Shoot First,"Justin Bare,Matthew Miele",United States,2016,87,Documentary,English
+Movie,The Reagan Show,"Sierra Pettengill,Pacho Velez",United States,2017,74,Documentary,English
+Movie,"Race for Your Life, Charlie Brown","Bill Melendez,Phil Roman",United States,1977,76,"Animation,Adventure,Comedy,Family",English
+Movie,Fairy Tail the Movie: Phoenix Priestess,Masaya Fujimori,Japan,2012,86,"Animation,Action,Adventure,Comedy,Drama,Fantasy",Japanese
+Movie,Tiny Toon Adventures: How I Spent My Vacation,"Rich Arons,Ken Boyer,Kent Butterworth,Barry Caldwell,Alfred Gimeno,Art Leonardi,Byron Vaughns",United States,1992,79,"Animation,Adventure,Comedy,Family,Fantasy",English
+Movie,Proxy,Zack Parker,United States,2013,120,"Drama,Horror,Thriller",English
+Movie,Welcome to Mercy,Tommy Bertelsen,United States,2018,103,"Drama,Horror,Mystery,Thriller","English,Latvian"
+Movie,Permanent,Colette Burson,United States,2017,93,Comedy,English
+Movie,Terminal,Steven Spielberg,United States,2018,128,"Comedy,Drama,Romance","English,Bulgarian,Spanish,Russian,Mandarin,German,French"
+Movie,Walking with the Enemy,Mark Schmidt,"Romania,Hungary,Canada,United States",2014,124,"Action,Drama,History,Romance,War","English,German,Hungarian,Romanian"
+Movie,Crash Pad,Kevin Tent,"Canada,United States",2017,91,Comedy,English
+Movie,Abduction,John Singleton,United States,2011,106,"Action,Mystery,Thriller",English
+Movie,The Big Wedding,Justin Zackham,United States,2013,89,"Comedy,Drama,Romance","English,Spanish,Chinese,Latin"
+Movie,Spinning Man,Simon Kaijser,"Ireland,Sweden,United States",2018,100,"Drama,Mystery,Thriller",English
+Movie,Golden Exits,Alex Ross Perry,"Greece,United States",2018,94,Drama,English
+Movie,Madea's Witness Protection,Tyler Perry,United States,2012,114,"Comedy,Crime,Drama",English
+Movie,Playing It Cool,Justin Reardon,United States,2014,94,"Comedy,Romance","English,Korean"
+Movie,Greener Grass,"Jocelyn DeBoer,Dawn Luebbe",United States,2019,95,Comedy,English
+Movie,Errors of the Human Body,Eron Sheean,"Germany,United States",2012,101,"Drama,Horror,Mystery,Sci-Fi,Thriller",English
+Movie,Spaceship Earth,Matt Wolf,United States,2020,113,Documentary,
+Movie,The Quiet One,Oliver Murray,United Kingdom,2019,98,"Documentary,Music",English
+Movie,The Pink Panther 2,Harald Zwart,United States,2009,92,"Action,Adventure,Comedy,Crime,Family,Mystery","English,French,Spanish,Italian"
+Movie,Phoenix Forgotten,Justin Barber,United States,2017,87,"Horror,Mystery,Sci-Fi,Thriller",English
+Movie,The Duchess of Langeais,Jacques Rivette,"France,Italy",2007,137,"Drama,Music,Romance","French,Spanish"
+Movie,Texas Chainsaw 3D,John Luessenhop,United States,2013,92,"Horror,Thriller",English
+Movie,Boom for Real: The Late Teenage Years of Jean-Michel Basquiat,Sara Driver,United States,2018,78,Documentary,English
+Movie,American Folk,David Heinz,United States,2018,99,"Drama,Musical",English
+Movie,Curvature,Diego Hallivis,United States,2017,90,"Mystery,Sci-Fi,Thriller",English
+Movie,The Alchemist Cookbook,Joel Potrykus,United States,2016,82,"Comedy,Drama,Horror",English
+Movie,"I, Frankenstein",Stuart Beattie,"United States,Australia",2014,92,"Action,Fantasy,Sci-Fi",English
+Movie,Love After Love,Russell Harbaugh,United States,2018,91,"Drama,Romance",English
+Movie,The Houses October Built,Bobby Roe,United States,2014,91,"Horror,Thriller",English
+Movie,Free Willy 2: The Adventure Home,Dwight H. Little,"France,United States,Luxembourg",1995,95,"Adventure,Drama,Family","English,Danish,Malay,Dutch,Indonesian,Finnish,Luxembourgish,French Sign Language"
+Movie,11 Minutes,Jerzy Skolimowski,"Poland,Ireland",2015,81,"Drama,Thriller","Polish,English"
+Movie,Running with the Devil,Jason Cabell,"Colombia,United States",2019,100,"Crime,Drama,Thriller","English,Spanish"
+Movie,28 Hotel Rooms,Matt Ross,United States,2012,82,"Drama,Romance",English
+Movie,Bolden,Dan Pritzker,United States,2019,108,Drama,English
+Movie,The Monkey King 3,Soi Cheang,"China,Hong Kong",2018,114,"Action,Adventure,Family,Fantasy","Mandarin,English"
+Movie,Getting Go: The Go Doc Project,Cory Krueckeberg,United States,2013,91,"Drama,Romance",English
+Movie,Sherlock Gnomes,John Stevenson,"United Kingdom,United States,India,Canada,France,Belgium",2018,86,"Animation,Adventure,Comedy,Family,Fantasy,Mystery,Romance","English,Mandarin"
+Movie,Batman & Bill,"Don Argott,Sheena M. Joyce",United States,2017,93,"Documentary,Animation,Mystery",English
+Movie,Cruise,Robert Siegel,United States,2018,90,"Drama,Romance",English
+Movie,Distorted,Rob W. King,Canada,2018,86,"Crime,Mystery,Thriller",English
+Movie,The Numbers Station,Kasper Barfoed,"United Kingdom,Belgium,United States",2013,89,"Action,Thriller",English
+Movie,In a Relationship,Sam Boyd,"Mexico,United States",2018,92,"Comedy,Drama",English
+Movie,The Female Brain,Whitney Cummings,United States,2017,98,Comedy,English
+Movie,Rags,,United States,2012,30,"Drama,Romance",English
+Movie,The Gardener,"Scott Jeffrey,Rebecca Matthews",United Kingdom,2017,,Action,English
+Movie,100 Streets,Jim O'Hanlon,United Kingdom,2016,93,Drama,English
+Movie,Legendary,Eric Styles,"United Kingdom,China",2010,92,"Action,Adventure,Sci-Fi,Thriller","English,Chinese"
+Movie,And So It Goes,Rob Reiner,United States,2014,94,"Comedy,Drama,Romance",English
+Movie,Chef Flynn,Cameron Yates,United States,2018,82,Documentary,English
+Movie,6 Below: Miracle on the Mountain,Scott Waugh,United States,2017,98,"Adventure,Biography,Drama,Sport,Thriller",English
+Movie,Back in Time,Jason Aron,"United States,Canada,United Kingdom",2015,95,"Documentary,Family,History",English
+Movie,Tamara,Jeremy Haft,Canada,2005,98,"Drama,Fantasy,Horror,Thriller",English
+Movie,Grace Jones: Bloodlight and Bami,Sophie Fiennes,"Ireland,United Kingdom",2017,115,"Documentary,Biography,Music","English,French"
+Movie,Racer and the Jailbird,Michaël R. Roskam,"Belgium,France,Netherlands",2017,130,"Crime,Drama,Romance","Dutch,French"
+Movie,Romeo & Juliet,Carlo Carlei,"United Kingdom,Italy,Switzerland",2013,118,"Drama,Romance","English,Latin"
+Movie,Time Freak,Andrew Bowler,United States,2018,104,"Comedy,Drama,Romance,Sci-Fi",English
+Movie,Who Let the Dogs Out,Brent Hodge,Canada,2019,70,Documentary,
+Movie,The Cage Fighter,Jeff Unay,United States,2018,81,"Documentary,Action,Drama",English
+Movie,Hollow in the Land,Scooter Corkle,Canada,2017,92,"Drama,Mystery,Thriller",English
+Movie,Fun Size,Josh Schwartz,United States,2012,86,"Adventure,Comedy",English
+Movie,Black Gold,Jean-Jacques Annaud,"France,Italy,Qatar,Tunisia",2011,130,"Action,Drama,History,War",English
+Movie,Long Time Coming: A 1955 Baseball Story,Jon Strong,United States,2017,87,"Documentary,History,Sport",English
+Movie,A Kind of Murder,Andy Goddard,United States,2016,95,"Crime,Drama,Mystery,Thriller",English
+Movie,Barbie and the Three Musketeers,William Lau,United States,2009,81,"Animation,Family",English
+Movie,The Colony,Hark Tsui,"United States,Hong Kong",2013,93,"Action,Comedy,Sci-Fi,Thriller","English,Italian"
+Movie,Free Willy 3: The Rescue,Sam Pillsbury,United States,1997,86,"Adventure,Drama,Family",English
+Movie,Black Cop,Cory Bowles,Canada,2017,91,Drama,English
+Movie,Vault,Tom DeNucci,United States,2019,99,"Action,Crime,Drama,History,Thriller",English
+Movie,Primal,Nick Powell,United States,2010,97,Action,English
+Movie,Dark Shadows: The Haunting of Collinwood,,United States,2009,210,"Drama,Fantasy,Horror",English
+Movie,Nobody's Fool,Tyler Perry,United States,2018,110,"Comedy,Drama,Romance",English
+Movie,Bare,Natalia Leite,United States,2015,90,"Drama,Romance",English
+Movie,Once Upon a Time in Venice,Mark Cullen,United States,2017,94,"Action,Comedy",English
+Movie,Passage to Mars,Jean-Christophe Jeauffre,United States,2016,94,Adventure,"English,French"
+Movie,Mapplethorpe,Ondi Timoner,United States,2018,102,"Biography,Drama",English
+Movie,Gintama,,Japan,2017,,"Animation,Action,Comedy,Sci-Fi",Japanese
+Movie,Dr. Feelgood,,United States,2016,,"Biography,Reality-TV",English
+Movie,The Burden,Niki Lindroth von Bahr,Sweden,2017,15,"Animation,Short,Comedy,Drama,Musical",Swedish
+Movie,The Tomorrow Man,Noble Jones,United States,2019,94,"Drama,Romance",English
+Movie,Pokémon the Movie: Volcanion and the Mechanical Marvel,Kunihiko Yuyama,Japan,2016,90,"Animation,Action,Adventure,Family,Fantasy",Japanese
+Movie,Half Magic,Heather Graham,United States,2018,94,"Comedy,Romance","English,Spanish"
+Movie,Frank Serpico,Antonino D'Ambrosio,United States,2017,98,"Documentary,Biography",English
+Movie,Bangkok Dangerous,"Danny Pang,Oxide Chun Pang","United States,Czech Republic,Thailand",2008,99,"Action,Crime,Thriller","English,Thai"
+Movie,XX/XY,Austin Chick,United States,2002,91,"Drama,Romance",English
+Movie,Girl Most Likely,"Shari Springer Berman,Robert Pulcini",United States,2012,103,Comedy,"English,French,Romanian,Dutch,Mandarin"
+Movie,ma ma,Julio Medem,"Spain,France",2015,111,Drama,Spanish
+Movie,Havana Motor Club,Bent-Jorgen Perlmutt,"Cuba,United States",2015,80,"Documentary,Drama,Sport","Spanish,English"
+Movie,Knives and Skin,Jennifer Reeder,United States,2019,111,Drama,English
+Movie,Body at Brighton Rock,Roxanne Benjamin,United States,2019,87,"Horror,Mystery,Thriller",English
+Movie,The Strange Ones,"Christopher Radcliff,Lauren Wolkstein",United States,2018,81,"Drama,Thriller",English
+Movie,Legends of Oz: Dorothy's Return,"Will Finn,Daniel St. Pierre","United States,India",2014,88,"Animation,Adventure,Family,Fantasy,Musical",English
+Movie,Naz & Maalik,Jay Dockendorf,United States,2014,86,"Adventure,Comedy,Drama,Romance",English
+Movie,The Snow Queen 3: Fire and Ice,Aleksey Tsitsilin,Russia,2016,89,"Animation,Adventure,Comedy,Family,Fantasy",Russian
+Movie,Black Rock,Katie Aselton,United States,2012,83,"Horror,Thriller",English
+Movie,Loro 1,Paolo Sorrentino,"Italy,France",2018,104,"Biography,Drama",Italian
+Movie,Banking on Bitcoin,Christopher Cannucciari,United States,2016,90,"Documentary,History,News",English
+Movie,The Cokeville Miracle,T.C. Christensen,United States,2015,94,"Drama,Family,History,Mystery,Thriller",English
+Movie,Trevor Noah: You Laugh But It's True,,,2011,,,
+Movie,The Ramen Girl,Robert Allan Ackerman,"United States,Japan",2008,102,"Comedy,Drama,Romance","Japanese,English"
+Movie,Saint,Dick Maas,Netherlands,2010,85,"Comedy,Horror",Dutch
+Movie,The Boost,Harold Becker,United States,1988,95,"Drama,Romance",English
+Movie,A Cinderella Christmas,Tosca Musk,United States,2016,93,"Comedy,Romance",English
+Movie,Manglehorn,David Gordon Green,United States,2015,97,Drama,English
+Movie,Matriarch,Scott Vickers,United Kingdom,2018,91,"Horror,Thriller",English
+Movie,Neat: The Story of Bourbon,David Altrogge,United States,2018,75,Documentary,English
+Movie,Sheep & Wolves,"Andrey Galat,Maksim Volkov",Russia,2016,85,"Animation,Comedy,Family,Fantasy",Russian
+Movie,The Prince,,Egypt,2014,,Drama,Arabic
+Movie,The Mountain,Rick Alverson,United States,2019,106,Drama,"English,French,German"
+Movie,Dr. T & the Women,Robert Altman,"United States,Germany",2000,122,"Comedy,Drama,Romance","English,German,Spanish"
+Movie,Assassination Tango,Robert Duvall,"United States,Argentina",2002,114,"Crime,Drama,Romance,Thriller","English,Spanish,German"
+Movie,The Pagan King,Aigars Grauba,"United Kingdom,Latvia",2018,114,"Action,Drama,History,War",English
+Movie,Sneakerheadz,"David T. Friendly,Mick Partridge",United States,2015,73,Documentary,English
+Movie,Casa de los Babys,John Sayles,"United States,Mexico",2003,95,Drama,"English,Spanish"
+Movie,Trespassers,Orson Oblowitz,United States,2019,88,"Horror,Thriller",English
+Movie,Tracktown,"Alexi Pappas,Jeremy Teicher",United States,2017,88,"Drama,Sport",English
+Movie,Serena,Susanne Bier,"Czech Republic,France,United States",2014,109,"Drama,History,Romance",English
+Movie,Barbie in A Mermaid Tale 2,William Lau,"Canada,United States",2012,73,"Animation,Family",English
+Movie,Four Lovers,Antony Cordier,France,2010,103,Romance,"French,English"
+Movie,Barbie in 'A Christmas Carol',William Lau,"United States,Canada",2008,76,"Animation,Family",English
+Movie,Stung,Benni Diez,Germany,2015,87,"Action,Adventure,Comedy,Horror,Sci-Fi,Thriller",English
+Movie,Blind,Eskil Vogt,"Norway,Netherlands",2017,96,Drama,Norwegian
+Movie,Food Choices,Michal Siewierski,United States,2016,91,Documentary,"English,Spanish,German,French"
+Movie,Dismissed,Benjamin Arfmann,United States,2017,87,"Drama,Horror,Thriller",English
+Movie,Trick,Patrick Lussier,United States,2019,100,Horror,
+Movie,The Confessions,Roberto Andò,"Italy,France",2016,108,"Drama,Mystery,Thriller","Italian,English,French,German"
+Movie,Wakko's Wish,"Liz Holzman,Rusty Mills,Tom Ruegger,Russell Calabrese,Nelson Recinos,Greg Reyna,Kirk Tingblad,Charles Visser",United States,1999,80,"Animation,Adventure,Comedy,Drama,Family,Fantasy,Musical",English
+Movie,K: Missing Kings,Shingo Suzuki,Japan,2014,73,"Animation,Action,Fantasy",Japanese
+Movie,Sprung,Rusty Cundieff,United States,1997,105,"Comedy,Romance",English
+Movie,Most Likely to Murder,Dan Gregor,United States,2018,90,Comedy,English
+Movie,Liz in September,Fina Torres,Venezuela,2014,100,"Drama,Romance",Spanish
+Movie,Astral,Chris Mul,United Kingdom,2018,83,"Drama,Horror,Sci-Fi,Thriller",English
+Movie,Barbie: The Pearl Princess,Ezekiel Norton,,2013,73,"Animation,Family",English
+Movie,Raze,Josh C. Waller,United States,2013,87,"Action,Drama,Horror",English
+Movie,A Teacher,Hannah Fidell,United States,2013,75,"Drama,Romance",English
+Movie,Hannie Caulder,Burt Kennedy,United Kingdom,1971,85,"Crime,Drama,Western",English
+Movie,Daylight's End,William Kaufman,United States,2016,105,"Action,Fantasy,Horror,Sci-Fi",English
+Movie,Passport to Paris,Alan Metter,United States,1999,87,"Family,Comedy","French,English"
+Movie,Coffin Rock,Rupert Glasson,"Australia,United Kingdom,New Zealand",2009,92,"Drama,Thriller",English
+Movie,The Thousand Faces of Dunjia,Woo-Ping Yuen,"China,Hong Kong",2017,113,"Action,Adventure,Fantasy",Mandarin
+Movie,Damascus Cover,Daniel Zelik Berk,United Kingdom,2018,93,"Mystery,Thriller","Arabic,German,English"
+Movie,Wrinkles the Clown,Michael Beach Nichols,United States,2019,75,"Documentary,Comedy,Horror,Mystery",English
+Movie,Gator,Burt Reynolds,United States,1976,115,"Action,Crime,Drama",English
+Movie,Get Big,Dylan Anthony Moran,United States,2017,86,"Comedy,Drama",English
+Movie,The Dinner,Jay Roach,United States,2017,114,Comedy,English
+Movie,Into the Ashes,Aaron Harvey,United States,2019,98,"Crime,Drama,Mystery,Thriller",English
+Movie,A Madea Family Funeral,Tyler Perry,United States,2019,109,Comedy,English
+Movie,Barbie & Her Sisters in the Great Puppy Adventure,"Andrew Tan,Michael Goguen",United States,2015,76,"Animation,Adventure,Family",English
+Movie,Swindle,Jonathan Judge,"United States,Canada",2013,91,"Action,Adventure,Comedy,Crime,Family",English
+Movie,Lemon,Janicza Bravo,United States,2017,83,"Comedy,Drama",English
+Movie,Breakup at a Wedding,Victor Quinaz,United States,2013,85,Comedy,English
+Movie,Radioflash,Ben McPherson,United States,2019,103,"Drama,Sci-Fi,Thriller",English
+Movie,Action Point,Tim Kirkby,"United States,South Africa",2018,85,Comedy,English
+Movie,Strategic Air Command,Anthony Mann,United States,1955,112,"Action,Drama,War",English
+Movie,The Treasure,Sharif Arafah,Egypt,2015,157,"Action,Adventure,Drama,Music",Arabic
+Movie,Tyrel,Sebastián Silva,United States,2018,86,"Comedy,Drama",English
+Movie,Some Kind of Hero,Michael Pressman,United States,1982,97,"Comedy,Crime,Drama,War",English
+Movie,The Houses October Built 2,Bobby Roe,United States,2017,101,Horror,English
+Movie,Repentance,Philippe Caland,United States,2014,90,"Drama,Horror,Thriller",English
+Movie,We Die Young,Lior Geller,"Bulgaria,United States",2019,92,"Action,Crime,Drama,Thriller",English
+Movie,Middle of Nowhere,John Stockwell,United States,2008,95,"Comedy,Drama,Romance",English
+Movie,The Layover,William H. Macy,United States,2017,88,"Comedy,Romance",English
+Movie,Ismael's Ghosts,Arnaud Desplechin,France,2017,114,"Drama,Romance,Thriller","French,Hebrew"
+Movie,The Challenge,,United States,2016,30,"Adventure,Game-Show,Reality-TV",English
+Movie,Ride,Jeremy Ungar,United States,2018,79,"Action,Thriller",English
+Movie,Billboard Dad,Alan Metter,United States,1998,92,"Comedy,Family,Romance",English
+Movie,American Gun,Aric Avelino,United States,2005,95,Drama,English
+Movie,Devil's Gate,Clay Staub,Canada,2017,94,"Horror,Sci-Fi,Thriller",English
+Movie,Contracted: Phase II,Josh Forbes,United States,2015,78,"Drama,Horror,Thriller",English
+Movie,Silent Tongue,Sam Shepard,"France,Netherlands,United Kingdom,United States",1993,102,"Drama,Horror,Western",English
+Movie,Along Came the Devil,Jason DeVan,United States,2018,89,"Drama,Horror,Thriller",English
+Movie,Status Update,Scott Speer,"Canada,United States,China",2018,106,"Comedy,Fantasy,Romance",English
+Movie,Noma: My Perfect Storm,Pierre Deschamps,United Kingdom,2015,100,Documentary,"English,Danish,Spanish,Albanian,Swedish,French"
+Movie,Furry Vengeance,Roger Kumble,"United States,United Arab Emirates",2010,92,"Comedy,Family",English
+Movie,Coastlines,Victor Nunez,United States,2002,110,"Crime,Drama,Thriller",English
+Movie,Wounds,Babak Anvari,"United States,United Kingdom",2019,95,"Drama,Horror,Mystery,Thriller",English
+Movie,Crawlers,Gisyerg Bermudez,United States,2020,90,Horror,English
+Movie,Missing 411,"Michael DeGrazier,Benjamin Paulides",United States,2017,98,Documentary,English
+Movie,Affairs of State,Eric Bross,United States,2018,97,Drama,English
+Movie,A Score to Settle,Shawn Ku,"Canada,United States",2019,103,"Action,Crime,Drama,Thriller","English,Spanish,Italian"
+Movie,Almost Human,,United States,2013,60,"Action,Crime,Drama,Sci-Fi",English
+Movie,Making Plans for Lena,Christophe Honoré,France,2009,105,Drama,"French,German,English,Italian"
+Movie,The Sweet Life,Federico Fellini,"Italy,France",2017,174,"Comedy,Drama","Italian,English,French,German"
+Movie,White Night Wedding,Baltasar Kormákur,Iceland,2008,96,"Comedy,Drama","Icelandic,English"
+Movie,It Came from the Desert,Marko Mäkilaakso,"Finland,United Kingdom,Canada",2017,90,"Action,Adventure,Comedy,Horror,Sci-Fi,Thriller","English,Spanish"
+Movie,Ballet Now,Steven Cantor,United States,2018,74,Documentary,English
+Movie,The Midnight Man,Marcus Dunstan,United States,2016,90,"Action,Crime,Horror,Thriller",English
+Movie,The Taste of Money,Sang-soo Im,South Korea,2012,115,"Drama,Thriller","Korean,English,Tagalog"
+Movie,Getaway,Sam Peckinpah,United States,2013,123,"Action,Crime,Thriller","English,Spanish"
+Movie,Mass Effect: Paragon Lost,Atsushi Takeuchi,"United States,Japan,Canada,South Korea",2012,84,"Animation,Action,Sci-Fi","Japanese,English"
+Movie,Trapped: The Alex Cooper Story,Jeffrey G. Hunt,United States,2019,87,"Biography,Drama",English
+Movie,All Around Us,Tristan David Luciotti,United States,2008,,Documentary,English
+Movie,Barbie Presents: Thumbelina,Conrad Helten,"Canada,United States",2009,75,"Animation,Family",English
+Movie,Madonna and the Breakfast Club,Guy Guido,United States,2019,105,"Documentary,Drama",
+Movie,The Sound of Silence,Michael Tyburski,United States,2019,85,Drama,English
+Movie,Don't Go,David Gleeson,Ireland,2018,91,Mystery,English
+Movie,Ozzy,"Alberto Rodríguez,Nacho La Casa","Spain,Canada",2016,90,"Animation,Adventure,Comedy,Family","Spanish,English"
+Movie,Tell Them Anything You Want: A Portrait of Maurice Sendak,"Lance Bangs,Spike Jonze",United States,2009,39,"Documentary,Short",English
+Movie,Breaking the Girls,Jamie Babbit,United States,2013,83,"Crime,Thriller",English
+Movie,"Literally, Right Before Aaron",Ryan Eggold,United States,2017,102,"Comedy,Drama",English
+Movie,Inside,Andrés Baiz,"Colombia,Spain",2017,97,"Drama,Mystery,Thriller",Spanish
+Movie,Pokémon the Movie: Diancie and the Cocoon of Destruction,Kunihiko Yuyama,Japan,2014,76,"Animation,Action,Adventure,Comedy,Family,Fantasy","Japanese,English"
+Movie,The Simone Biles Story: Courage to Soar,Vanessa Parise,United States,2018,86,"Biography,Drama,Sport",English
+Movie,Pokémon the Movie: Hoopa and the Clash of Ages,Kunihiko Yuyama,Japan,2015,79,"Animation,Action,Adventure,Family,Fantasy","Japanese,English"
+Movie,Curious George 2: Follow That Monkey!,Norton Virgien,United States,2009,80,"Animation,Family",English
+Movie,I'll Come Running,Spencer Parsons,"Denmark,United States",2008,112,"Drama,Romance","English,Danish"
+Movie,Ron White: A Little Unprofessional,Tom Forrest,United States,2012,120,Comedy,English
+Movie,Out of the Dark,Lluís Quílez,"United States,United Arab Emirates,Colombia,Spain",2014,92,"Horror,Thriller",English
+Movie,The Sender,Roger Christian,United Kingdom,1982,91,"Drama,Horror,Sci-Fi,Thriller",English
+Movie,Santa Hunters,Savage Steve Holland,"Canada,United States",2014,65,"Comedy,Family",English
+Movie,Beers of Joy,"David Swift,Scott Owen,David Swift",United States,2019,118,Documentary,English
+Movie,Every Other Holiday,Blair Hayes,,2018,90,"Drama,Family,Romance",English
+Movie,The Swan Princess: The Mystery of the Enchanted Kingdom,Richard Rich,United States,1998,71,"Animation,Family,Fantasy,Mystery",English
+Movie,Blurt!,Michelle Johnston,United States,2018,52,"Action,Comedy,Family",English
+Movie,Eyes of an Angel,Robert Harmon,United States,1991,95,Drama,English
+Movie,Good Time Max,James Franco,United States,2008,79,Drama,English
+Movie,Switching Goals,Mike Jeavons,,1999,12,Comedy,
+Movie,F*&% the Prom,Benny Fine,United States,2017,92,"Comedy,Drama",English
+Movie,Higher Power,Matthew Charles Santoro,United States,2018,93,"Action,Sci-Fi,Thriller",English
+Movie,Curious George: A Very Monkey Christmas,"Scott Heming,Cathy Malkasian,Jeff McGrath",United States,2009,58,"Animation,Adventure,Family",English
+Movie,Monogamy,,United States,2010,30,Drama,English
+Movie,Barbie: A Perfect Christmas,Mark Baldo,United States,2011,74,"Animation,Family",English
+Movie,Bernie the Dolphin,Kirk Harris,Canada,2018,88,"Adventure,Comedy,Family",English
+Movie,The Château,Jesse Peretz,United States,2001,91,"Comedy,Drama,Romance","English,French"
+Movie,The Other Man,Richard Eyre,"United Kingdom,United States",2008,88,"Drama,Mystery,Thriller",English
+Movie,Above and Beyond: NASA's Journey to Tomorrow,Rory Kennedy,United States,2018,90,Documentary,English
+Movie,35 and Ticking,Russ Parr,United States,2011,104,"Comedy,Romance",English
+Movie,Naughty & Nice,Sam Irvin,United States,2014,88,"Comedy,Romance",English
+Movie,Victoria Gotti: My Father's Daughter,Catherine Cyran,United States,2019,86,"Crime,Drama",English
+Movie,Respectable: The Mary Millington Story,Simon Sheridan,United Kingdom,2016,109,"Documentary,Biography",English
+Movie,Death Bell,Hong-Seung Yoon,South Korea,2008,88,"Horror,Thriller",Korean
+Movie,We Are Columbine,Laura Farber,United States,2019,83,Documentary,English
+Movie,The Appeared,Paco Cabezas,"Sweden,Argentina,Spain",2008,120,Horror,Spanish
+Movie,Dragon Age: Dawn of the Seeker,Fumihiko Sori,"United States,Japan",2012,90,"Animation,Action,Adventure,Fantasy",English
+Movie,Addicted to Sexting,Joseph Tosconi,United States,2015,80,Documentary,English
+Movie,RoboGeisha,Noboru Iguchi,Japan,2009,102,"Action,Comedy,Sci-Fi",Japanese
+Movie,Big Voice,Varda Bar-Kar,United States,2015,83,"Documentary,Biography,Family,Music,Musical",English
+Movie,Nina,John Badham,United States,2016,109,"Action,Crime,Drama,Thriller","English,French"
+Movie,Josie,Eric England,United States,2018,100,"Drama,Thriller",English
+Movie,The Con Is On,James Oakley,"United States,United Kingdom",2018,90,Comedy,"English,Spanish,Japanese,Russian,Chinese"
+Movie,Feral,Mark Young,United States,2018,90,"Action,Drama,Horror,Thriller",English
+Movie,Second Chance Christmas,Danny Buday,United States,2017,120,"Comedy,Drama,Romance",English
+Movie,Eve's Christmas,Timothy Bond,"Canada,United States",2004,96,"Comedy,Family",English
+Movie,A Guide to Second Date Sex,Rachel Hirons,United Kingdom,2019,98,"Comedy,Romance",English
+Movie,No Holds Barred,Thomas J. Wright,United States,1989,93,"Action,Sport",English
+Movie,My Valentine,"Pornchai Hongrattanaporn,Songsak Mongkolthong,Seree Phongnithi",Thailand,2020,90,"Comedy,Romance",Thai
+Movie,Killers Anonymous,Martin Owen,United Kingdom,2019,95,"Action,Crime,Mystery,Thriller",English
+Movie,Lewis Black: Old Yeller - Live at the Borgata,Zach Nial,United States,2013,82,"Documentary,Comedy",English
+Movie,The Reunion,Michael Rosenbaum,"United Kingdom,United States",2011,94,Comedy,English
+Movie,The Intended,Kristian Levring,"United Kingdom,Denmark",2002,110,"Drama,Thriller",English
+Movie,Roller Dreams,Kate Hickey,"United States,Australia",2017,82,Documentary,English
+Movie,Midnight Kiss,Joel Bender,United States,2019,85,Horror,English
+Movie,Allure,"Carlos Sanchez,Jason Sanchez",Canada,2018,105,"Drama,Romance,Thriller",English
+Movie,Concrete Kids,Lije Sarki,United States,2018,82,"Adventure,Family,Sport",English
+Movie,Into the Dark: I'm Just F*cking With You,Adam Mason,United States,2019,81,"Horror,Thriller",English
+Movie,Gilbert Gottfried: Dirty Jokes,Adam Reid,United States,2005,50,Comedy,English
+Movie,Catching Faith,John K.D. Graham,United States,2015,88,"Drama,Family,Sport",English
+Movie,Penumbra,"Adrián García Bogliano,Ramiro García Bogliano","Argentina,Mexico",2012,90,"Horror,Thriller",Spanish
+Movie,Kill Order,James Mark,Canada,2017,77,"Action,Sci-Fi",English
+Movie,Paper Covers Rock,Joe Maggio,United States,2008,90,Drama,English
+Movie,Racetime,"Benoît Godbout,Jean-François Pouliot,François Brisson",Canada,2018,89,"Animation,Adventure,Musical",English
+Movie,Margaret Atwood: A Word After a Word After a Word Is Power,"Nancy Lang,Peter Raymont",Canada,2019,93,Documentary,English
+Movie,The Disappointments Room,D.J. Caruso,United States,2016,85,"Drama,Horror,Thriller",English
+Movie,Brad Paisley Thinks He's Special,,United States,2019,,Music,
+Movie,Daphne & Velma,Suzi Yoonessi,United States,2018,72,"Action,Comedy,Crime,Horror,Mystery",English
+Movie,Albert,Karsten Kiilerich,Denmark,2016,81,"Animation,Action,Adventure,Comedy,Family","Danish,English"
+Movie,The Eternal,Michael Almereyda,United States,1998,95,Horror,English
+Movie,Faintheart,Vito Rocco,United Kingdom,2008,92,"Comedy,Drama,Romance","English,Klingon"
+Movie,Slumber,Jonathan Hopkins,"United Kingdom,United States",2017,84,Horror,English
+Movie,Telescope,,Canada,2016,30,Documentary,English
+Movie,Tetsuo: The Bullet Man,Shin'ya Tsukamoto,Japan,2009,71,"Action,Horror,Sci-Fi",English
+Movie,Cover Versions,Todd Berger,United States,2018,87,"Music,Mystery,Thriller",English
+Movie,Warpath,Byron Haskin,United States,1951,95,"Drama,Western",English
+Movie,"Good Morning, Killer",Maggie Greenwald,United States,2011,93,"Crime,Drama,Mystery,Thriller",English
+Movie,Rosy,Jess Bond,United States,2018,92,"Comedy,Romance,Thriller",English
+Movie,Another Time,Thomas Hennessy,United States,2018,89,"Adventure,Comedy,Romance,Sci-Fi",English
+Movie,Beyond Paradise,J.J. Alani,United States,2015,101,"Drama,Romance",English
+Movie,Alive,Frank Marshall,"United States,Canada",2018,120,"Adventure,Biography,Drama,Thriller",English
+Movie,Hide,John Gray,United States,2011,88,"Drama,Thriller",English
+Movie,Diary of a Hitman,Roy London,United States,1991,90,"Crime,Drama",English
+Movie,Hellions,Bruce McDonald,Canada,2015,80,"Drama,Horror,Thriller",English
+Movie,Funke,Gab Taraboulsy,United States,2018,89,Documentary,English
+Movie,Backtrace,Brian A. Miller,United States,2018,92,"Action,Crime,Drama",English
+Movie,Where Do We Go from Here?,John McPhail,United Kingdom,2018,82,"Comedy,Romance",English
+Movie,Narcopolis,Justin Trefgarne,United Kingdom,2015,96,"Mystery,Sci-Fi,Thriller",English
+Movie,Angels in the Snow,George Erschbamer,United States,2015,90,Family,English
+Movie,Crooked Hearts,Michael Bortman,United States,1991,113,"Drama,Romance",English
+Movie,Sex Guaranteed,"Brad Barnes,Todd Barnes",United States,2017,81,Comedy,English
+Movie,Deck the Halls,John Whitesell,United States,2011,93,"Comedy,Family","English,German"
+Movie,Ghost Team,Oliver Irving,United States,2016,83,"Comedy,Thriller",English
+Movie,Crazy About Tiffany's,Matthew Miele,United States,2016,86,Documentary,English
+Movie,Curious George: Royal Monkey,Doug Murphy,United States,2019,86,"Animation,Adventure,Comedy,Family,Fantasy",English
+Movie,A Fairytale Christmas,Alex Wright,United States,2013,85,"Drama,Family,Romance",English
+Movie,Inside Out,"Pete Docter,Ronnie Del Carmen",United States,2011,95,"Animation,Adventure,Comedy,Drama,Family,Fantasy",English
+Movie,Person to Person,Dustin Guy Defa,United States,2014,84,"Comedy,Drama",English
+Movie,Savage Youth,Michael Curtis Johnson,United States,2018,100,"Crime,Drama",English
+Movie,Girlfriends of Christmas Past,Jake Helgren,United States,2016,90,"Comedy,Romance",English
+Movie,My Santa,Sugeeth,India,2013,153,Comedy,Malayalam
+Movie,Robo-Dog: Airborne,Anthony Steven Giordano,United States,2017,88,Family,English
+Movie,More Barney songs,"Alexander Laughton,Fred Holmes",United States,1999,55,"Family,Music",English
+Movie,Let's Be Evil,Martin Owen,United Kingdom,2016,82,"Horror,Sci-Fi,Thriller",
+Movie,Dark Shadows: The Vampire Curse,,United States,2009,210,"Drama,Fantasy,Horror",English
+Movie,Rain,,United States,2006,,"Action,Thriller",English
+Movie,Urban Country,Teddy Smith,United States,2018,88,"Comedy,Drama,Family",English
+Movie,The Swan Princess: A Royal Family Tale,Richard Rich,"United States,India,South Korea",2014,79,"Animation,Family,Fantasy,Musical",English
+Movie,Monkey Business: The Adventures of Curious George's Creators,Ema Ryan Yamazaki,United States,2017,81,Documentary,English
+Movie,I Am Alone,Robert A. Palmer,United States,2015,88,"Drama,Horror,Sci-Fi",English
+Movie,Julian Schnabel: A Private Portrait,Pappi Corsicato,"United States,Italy",2017,84,Documentary,English
+Movie,Brown Girl Begins,Sharon Lewis,Canada,2018,70,"Fantasy,Sci-Fi",English
+Movie,Nothing Is Truer than Truth,Cheryl Eagan-Donovan,"Italy,United States,United Kingdom",2018,75,"Documentary,Biography,History",English
+Movie,Songbird,Jamie Adams,United Kingdom,2018,95,Drama,
+Movie,Robo-Dog,Jason Murphy,United States,2015,87,"Family,Sci-Fi",English
+Movie,Unbanned: The Legend of AJ1,Dexton Deboree,United States,2018,91,Documentary,English
+Movie,A Man Alone,Robert Siodmak,United States,1955,103,"Crime,Drama,Film-Noir,Mystery",English
+Movie,D.L. Hughley: Reset,Jay Karas,United States,2012,58,"Documentary,Comedy",English
+Movie,Hornet's Nest,Millicent Shelton,United States,2012,90,"Crime,Drama",English
+Movie,All About E,Louise Wadley,Australia,2015,96,"Comedy,Drama,Romance","English,Arabic"
+Movie,The Dark Side of The Sun,Bozidar 'Bota' Nikolic,"United States,Canada,Federal Republic of Yugoslavia",2017,101,"Drama,Romance",English
+Movie,This One's for the Ladies,Gene Graham,United States,2018,82,Documentary,English
+Movie,Bad Roomies,Jason Schnell,United States,2015,93,Comedy,English
+Movie,Random Tropical Paradise,Sanjeev Sirpal,United States,2017,101,Comedy,English
+Movie,Delivered,Michael Madison,United States,2020,90,"Crime,Thriller",English
+Movie,Last Flight,Vincent Zhou,China,2014,86,"Action,Horror,Thriller","Mandarin,English"
+Movie,The Remains,Thomas Della Bella,United States,2016,85,"Horror,Thriller",English
+Movie,Beneath the Darkness,"Barbara Peeters,Jimmy T. Murakami",United States,2012,80,"Horror,Sci-Fi",English
+Movie,The Box,Richard Kelly,United States,2018,115,"Drama,Fantasy,Mystery,Sci-Fi,Thriller",English
+Movie,In the Radiant City,Rachel Lambert,United States,2016,95,Drama,English
+Movie,Against the Wild II: Survive the Serengeti,Richard Boddington,"Canada,South Africa",2016,91,Adventure,English
+Movie,Bigfoot Girl,Jason Mills,United States,2019,75,Documentary,English
+Movie,The Eagle and the Hawk,Stuart Walker,United States,1950,73,"Action,Drama,War","English,French"
+Movie,A Mermaid's Tale,Dustin Rikert,United States,2017,92,"Adventure,Drama,Family",English
+Movie,Beyond the Comfort Zone - 13 Countries to K2,Nils Krebs,Germany,2018,90,"Documentary,Adventure","English,French,Swiss German"
+Movie,Kill Thy Neighbor,Ben Meyerson,United States,2019,90,"Drama,Thriller",English
+Movie,Back to Christmas,Tim O'Donnell,United States,2014,86,"Drama,Fantasy,Romance",English
+Movie,PawParazzi,Ari Novak,United States,2019,97,Family,English
+Movie,A Cam Life,,United States,2018,77,Documentary,English
+Movie,Broken Star,Dave Schwep,United States,2018,90,Thriller,English
+Movie,Knights of the Damned,Simon Wells,United Kingdom,2017,84,"Action,Fantasy,Horror",English
+Movie,Monsters at Large,Jason Murphy,United States,2018,91,Family,English
+Movie,9/11: 15 years later,,Netherlands,2016,60,Documentary,English
+Movie,Cannabis Evolution,Philip Gardiner,United States,2019,70,Documentary,English
+Movie,Sharp Edges,Sandra Luckow,United States,1986,52,Documentary,English
+Movie,Ricochet,Russell Mulcahy,United States,2011,102,"Action,Crime,Drama,Thriller",English
+Movie,The Quest of Alain Ducasse,Gilles de Maistre,France,2017,84,Documentary,"French,English,Japanese,Portuguese,Chinese"
+Movie,Benjamin,Simon Amstell,United Kingdom,2019,85,"Comedy,Romance",English
+Movie,A Fairly Odd Christmas,Savage Steve Holland,United States,2012,68,"Animation,Comedy,Family,Fantasy","English,Spanish,Japanese"
+Movie,EuroTrump,"Nick Hampson,Stephen Robert Morse","United States,United Kingdom",2017,92,Documentary,English
+Movie,Holly's Holiday,Jim Fall,United States,2012,85,"Comedy,Fantasy,Romance",English
+Movie,"A Fairly Odd Movie: Grow Up, Timmy Turner!",Savage Steve Holland,"United States,Canada",2011,48,"Animation,Comedy,Family,Fantasy",English
+Movie,Fan Girl,Paul Jarrett,United States,2015,100,"Comedy,Family,Music",English
+Movie,The Man Who Used to Be Me,Jeff Woolnough,"Canada,United States",2000,88,"Sci-Fi,Thriller",English
+Movie,So This Is Christmas,Richard Foster,United States,2013,115,"Comedy,Drama,Family,Romance",English
+Movie,Santee,Gary Nelson,United States,1973,93,Western,English
+Movie,His and Her Christmas,Farhad Mann,"United States,Canada",2005,89,"Comedy,Drama,Romance",English
+Movie,Air Strike,Xiao Feng,China,2018,120,"Action,Adventure,Drama,War","Chinese,English,Japanese"
+Movie,The School,Storm Ashwood,"Australia,United Arab Emirates",2018,86,"Horror,Thriller",English
+Movie,No Way Out,Roger Donaldson,United States,2015,114,"Action,Crime,Drama,Mystery,Romance,Thriller","English,Russian"
+Movie,Cherry Pop,Assaad Yacoub,United States,2017,79,"Comedy,Musical",English
+Movie,Treasure Hounds,Tim Brown,Canada,2017,88,Family,English
+Movie,Amy Winehouse - A Last Goodbye,,,2011,,,
+Movie,I Love You Both,Doug Archibald,United States,2017,90,"Comedy,Drama",English
+Movie,24 Hour Love,Fred Thomas Jr.,United States,2013,98,Drama,English
+Movie,Pony Express,,United States,1953,60,"Romance,Western",English
+Movie,Bob The Builder: Can We Fix It?,,United Kingdom,2004,44,,English
+Movie,After Darkness,Batan Silva,"Mexico,United States",2019,98,"Drama,Family,Sci-Fi,Thriller",English
+Movie,Hunting JonBenet's Killer: The Untold Story,,United States,2019,,Drama,English
+Movie,Barney's Night Before Christmas,Ben Vaughn,United States,1999,57,Family,English
+Movie,The Unauthorized Saved by the Bell Story,Jason Lapeyre,Canada,2014,88,"Biography,Comedy,Drama",English
+Movie,10.0 Earthquake,David Gidali,United States,2014,88,"Action,Adventure,Drama,Sci-Fi,Thriller",English
+Movie,Rodeo and Juliet,Will Mathison,United States,2015,,"Short,Western",English
+Movie,The Age of Reason,Yann Samuell,"France,Belgium",2014,97,"Comedy,Romance","French,English"
+Movie,Hot Guys with Guns,Doug Spearman,United States,2013,105,"Action,Comedy,Romance,Thriller","English,Spanish"
+Movie,Richard The Lionheart,Stefano Milla,"United States,Italy",2013,100,"Action,Adventure",English
+Movie,Crimes of Fashion,Stuart Gillard,United States,2004,90,Comedy,English
+Movie,A.R.C.H.I.E. 2: Mission Impawsible,Robin Dunne,Canada,2018,82,Family,English
+Movie,The Armstrong Tapes,Liz Reph,United States,2019,44,Documentary,English
+Movie,The Overbrook Brothers,John E. Bryant,United States,2009,92,"Comedy,Drama",English
+Movie,"Michael Jackson: Life, Death and Legacy",Maureen Goldthorpe,United States,2012,75,Documentary,English
+Movie,Playin' for Love,"Robert Townsend,Elijah Nathaniel Wells",United States,2015,84,Comedy,English
+Movie,Thomas & Friends: Songs from the Station,,,2005,,,
+Movie,Step Dogs,Geoff Anderson,Canada,2013,82,"Comedy,Family",English
+Movie,Danny Roane: First Time Director,Andy Dick,United States,2006,83,Comedy,English
+Movie,Against the Clock,Mark Polish,United States,2019,102,Thriller,English
+Movie,Night of the Living Dead 3D,Jeff Broadstreet,United States,2007,80,Horror,English
+Movie,The Row,Matty Beckerman,"Canada,United States",2018,85,"Horror,Thriller",English
+Movie,Law of the Lawless,,Russia,1964,750,"Action,Crime,Drama",Russian
+Movie,The Tall Stranger,Thomas Carr,United States,1957,81,Western,English
+Movie,Pegasus: Pony With a Broken Wing,Giorgio Serafini,United States,2019,86,Family,English
+Movie,Billy the Kid,Sam Peckinpah,"United States,Mexico",2013,122,"Biography,Drama,Western",English
+Movie,LeapFrog Letter Factory Adventures: Amazing Word Explorers,Craig George,,2015,38,"Animation,Short,Family",
+Movie,Where We Go from Here,Anthony Meindl,United States,2019,90,Drama,"English,French"
+Movie,My Dad Is Scrooge,Justin G. Dyck,Canada,2014,87,"Comedy,Family",English
+Movie,LeapFrog: Adventures in Shapeville Park,Ron Myrick,United States,2013,35,Short,English
+Movie,12 Dog Days Till Christmas,Charlie Vaughn,United States,2014,90,Family,English
+Movie,The Lonely Man,Henry Levin,United States,1957,88,"Drama,Western",English
+Movie,Cartels,Keoni Waxman,"United States,Monaco",2016,95,"Action,Crime,Mystery,Thriller",English
+Movie,Asmodexia,Marc Carreté,Spain,2014,81,Horror,Spanish
+Movie,The Push,Michael Finuoli,United States,2018,,Comedy,English
+Movie,The Swan Princess Christmas,Richard Rich,"United States,India,South Korea",2012,83,"Animation,Family,Fantasy,Musical",English
+Movie,The Coolest Guy Movie Ever: The Return to the Scene of The Great Escape,Christophe Espenan,United States,2018,58,Documentary,English
+Movie,LeapFrog: The Magnificent Museum of Opposite Words,,United States,2013,68,,English
+Movie,Dust 2 Glory,Dana Brown,United States,2017,98,Action,English
+Movie,Gary Owen: I Agree With Myself,Leslie Small,United States,2015,75,Comedy,English
+Movie,Leapfrog: Letter Factory Adventures - The Letter Machine Rescue Team,Craig George,United States,2014,34,"Short,Family",English
+Movie,"Making a Killing: Guns, Greed and the NRA",Robert Greenwald,United States,2016,103,Documentary,English
+Movie,Mutant Species,David A. Prior,United States,1995,100,"Horror,Sci-Fi",English
+Movie,The Clintons: An American Odyssey,Robert Kline,United States,2012,101,"Documentary,History",English
+Movie,Boomtown,,United States,2017,45,"Crime,Drama,Mystery,Thriller",English
+Movie,Pixi Saves Christmas,Gorka Sesma,Spain,2018,91,Animation,English
+Movie,Night of the Living Dead: Resurrection,James Plumb,United Kingdom,2012,86,Horror,English
+Movie,Man-Eating Python,Mark Beech,United States,2017,60,Documentary,English
+Movie,Christmas with the Andersons,Michael Feifer,United States,2016,90,"Comedy,Family",English
+Movie,Alien Contact,Rico Lowry,United States,2020,75,Documentary,English
+Movie,"New Year, New You",Jimmy Pope,United States,2017,,"Short,Comedy",English
+Movie,Christmas Crush,Marita Grabiak,Canada,2012,87,Comedy,English
+Movie,The Damned (2013),Víctor García,United States,2014,87,"Horror,Mystery,Thriller","English,Spanish"
+Movie,Comrades & Cash: How Money Found Its Way Through the Iron Curtain,,,2014,,,
+Movie,Legend of Heroes: Trails in the Sky,Toshihiro Kondo,Japan,2011,,Adventure,Japanese
